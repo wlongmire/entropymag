@@ -26,23 +26,48 @@ def is_good_response(resp):
 def log_error(e):
     print(e)
 
+def selectParent(element, selector):
+    while element != None and element.name != selector:
+        element = element.parent
+    
+    return element
+
 raw_html = simple_get('https://entropymag.org/where-to-submit-september-october-and-november-2018/')
 html = BeautifulSoup(raw_html, 'html.parser')
 
-for p in html.select('p strong'):
-    print p.parent
+content = html.select_one('h3 b')
+section = content.findNext(href="#top")
+print 'SectionType: ', section.findNext().string.replace(':', '')
 
-''' so we have sections are divided into anchor tags with <h3><b> within them. One word categories.
-    everything from there to the next example (or the pdf img for end) is a section of types of
-    submissions.
+section = section.findNext()
+for i in range(300):
 
-    from there indivisual entries are listed as 
-    <p><strong><a href="link for submission">Name of the press</a> </strong>/ (Deadline: Date OR Now OR Year-Round) / Type of submissions looked for / Submission Price</p>
+    entity = selectParent(section, 'p')
+    if (entity != None):
+        print entity.a.attrs
+        print 'Entry: ', entity
+        
+    
+    section = section.findNext('a')
 
-    with variations of course. What we can do is stripe this of price and use it regardless.
+# for section in html.findAll(href="#top"):
+#     print section.findNext().string.replace(':', '')
 
-    The real fun comes in doing text searched of the accompaning links and maybe providing some text analysis of those pages
-    for examples of writing.
+#     sibling = section.findNext()
+#     while(sibling != '<p><a href="#top"></p>'):
+#         print sibling.string
+#         sibling = sibling.findNext()
 
-    This is a great first step though. Next I will need to seperate the entries into sections (beautiful soup reference/ css selectors)
-    if I can just have a list of all entries with the approparte type beside it I will be in a great place to make a dump of the data.
+# so we have sections are divided into anchor tags with <h3><b> within them. One word categories.
+# everything from there to the next example (or the pdf img for end) is a section of types of
+# submissions.
+
+# from there indivisual entries are listed as 
+
+# with variations of course. What we can do is stripe this of price and use it regardless.
+
+# The real fun comes in doing text searched of the accompaning links and maybe providing some text analysis of those pages
+# for examples of writing.
+
+# This is a great first step though. Next I will need to seperate the entries into sections (beautiful soup reference/ css selectors)
+# if I can just have a list of all entries with the approparte type beside it I will be in a great place to make a dump of the data.

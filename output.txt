@@ -7369,3 +7369,532 @@ var ajax_var = {"url":"https:\/\/entropymag.org\/wp-admin\/admin-ajax.php","nonc
 <script type='text/javascript' src='https://entropymag.org/wp-includes/js/wp-embed.min.js?ver=4.9.6'></script>
 </body>
 </html>
+<a href="#presses"><strong>Presses</strong></a>
+<a href="#chapbooks"><strong>Chapbooks</strong></a>
+<a href="#journals"><strong>Journals + Anthologies</strong></a>
+<a href="#residencies"><strong>Residencies, Fellowships + Other Opportunities</strong></a>
+<p><a href="#presses"><strong>Presses</strong></a><br/>
+<a href="#chapbooks"><strong>Chapbooks</strong></a><br/>
+<a href="#journals"><strong>Journals + Anthologies</strong></a><br/>
+<a href="#residencies"><strong>Residencies, Fellowships + Other Opportunities</strong></a><br/>
+ <br/>
+<strong>Once in a section, click its heading to return back to this menu.</strong></p>
+<p><strong><a href="https://713books.com/submit/" rel="noopener noreferrer" target="_blank">7.13 Books</a> </strong>/ Deadline: November 1, 2018 / Fiction / $5</p>
+<p><strong><a href="http://alicejamesbooks.org/alice-james-award/" rel="noopener noreferrer" target="_blank">Alice James Books – Alice James Award</a></strong> / Deadline: November 1, 2018 / Poetry / $30 / Prize: $3,000 + Publication</p>
+<p><strong><a href="https://americanpoetryreview.submittable.com/submit" rel="noopener noreferrer" target="_blank">American Poetry Review/Honickman First Book Prize</a> </strong>/ Deadline: November 1, 2018 / Poetry / $25 / Prize: $3,000 + Publication with Copper Canyon Press / Judge: Sharon Olds</p>
+<p><strong><a href="https://levineprize.submittable.com/submit" rel="noopener noreferrer" target="_blank">Anhinga Press – Phillip Levine Prize in Poetry</a> </strong>/ Deadline: October 1, 2018 / Poetry / $28 / Prize: $2,000 + Publication / Judge: Peter Everwine</p>
+<p><strong><a href="http://www.anothernewcalligraphy.com/search/label/information?max-results=50" rel="noopener noreferrer" target="_blank">Another New Calligraphy</a></strong> / Now / Music, Books</p>
+<a href="http://www.apocalypse-party.com/submissions.html" rel="noopener" target="_blank"><strong>Apocalypse Party</strong></a>
+<p><strong><a href="https://autumnhousepress.submittable.com/submit">Autumn House Press — Open Call</a> </strong>/ Deadline: November 1, 2018 / All Genres / $10</p>
+<p class="title"><strong><a href="http://www.bauhanpublishing.com/the-monadnock-essay-collection-prize/" rel="noopener noreferrer" target="_blank">Bauhan Publishing – Monadnock Essay Collection Prize</a></strong> / Deadline: October 22, 2018 / $25 / $1,000 + Publication </p>
+<p><strong><a href="http://blpress.org/contact/" rel="noopener noreferrer" target="_blank">Bellevue Literary Press</a></strong> / Year-Round / Fiction, Nonfiction</p>
+<p><strong><a href="http://www.blazevox.org/index.php/faqs/" rel="noopener noreferrer" target="_blank">BlazeVOX</a></strong> / Year-Round / Poetry, Fiction</p>
+<p><strong><a href="https://www.blfpress.com/submissions/" rel="noopener noreferrer" target="_blank">BLF Press</a> </strong>/ Now / Fiction by Black Women Writers</p>
+<a href="https://www.boaeditions.org/pages/a-poulin-jr-poetry-prize" rel="noopener noreferrer" target="_blank"><strong>BOA Editions – </strong><b>A. Poulin, Jr. Poetry Prize</b></a>
+<p><strong><a href="http://www.boost-house.com/submit/" rel="noopener" target="_blank">Boost House</a></strong> / Now / Poetry</p>
+<a href="http://www.brainmillpress.com/submit/" rel="noopener" target="_blank"><strong>Brain Mill Press</strong><strong> – Kindred Books</strong></a>
+<a href="http://www.brainmillpress.com/submit/" rel="noopener" target="_blank"><strong>Brain Mill Press</strong><strong> – Kindred Books</strong></a>
+<p><strong><a href="http://brickroadpoetrypress.com/poetry-book-contest/" rel="noopener noreferrer" target="_blank">Brick Road Poetry Press – Book Contest</a></strong> / Deadline: November 1, 2018 / Poetry / $25 / Prize: $1,000 + Publication</p>
+<a href="http://brighthillpress.org/submissionguidelines/"><strong>Bright Hill Press – Poetry Book Competition</strong></a>
+<p><strong><a href="http://www.africanpoetryprize.org/" rel="noopener noreferrer" target="_blank">Brunel University – International African Poetry Prize</a></strong> / October 1 – November 30, 2018 / Poetry / Prize: £3,000 + Publication</p>
+<p><strong><a href="http://burnsidereview.org/book-guidelines/" rel="noopener noreferrer" target="_blank">Burnside Review Press Book Award</a></strong> / Deadline: November 30, 2018 / Poetry / $25 / Prize: $1,000 + Publication / Judge: Ed Skoog</p>
+<p><strong><a href="http://ciderpressreview.com/bookaward/book-award-submission-guidelines/#.VVlgy_lVikp" rel="noopener noreferrer" target="_blank">Cider Press Review Book Award</a></strong> / Deadline: November 30, 2018 / Poetry / $25 / Prize: $1,500 + Publication</p>
+<p><strong><a href="http://cinestate.com/books" rel="noopener noreferrer" target="_blank">Cinestate</a></strong> / Now / Fiction</p>
+<p><strong><a href="http://www.cloudbankbooks.com/Contest.html" rel="noopener noreferrer" target="_blank">Cloudbank Books – Vern Rutsala Poetry Prize </a></strong>/ Deadline: October 31, 2018 / Poetry / $25 / Prize: $1,000 + Publication / Judge: Christopher Buckley</p>
+<p><strong><a href="http://www.codhill.com/submissions/codhill-press-poetry-award-guide/" rel="noopener noreferrer" target="_blank">Codhill Press Poetry Award</a></strong> / Deadline: December 20, 2018 / Poetry / $30 / Prize: $1,000 + Publication</p>
+<p><strong><a href="https://coimpress.submittable.com/submit" rel="noopener noreferrer" target="_blank">co•im•press</a></strong> / Now / Translations</p>
+<p><strong><a href="https://coloradoprize.submittable.com/submit" rel="noopener noreferrer" target="_blank">Colorado Prize for Poetry</a></strong> / Deadline: October 1, 2018 – January 14, 2019 / Poetry / $25 / Prize: $2,000 + Publication / Judge: Kazim Ali</p>
+<a href="http://www.conduit.org/books/" rel="noopener" target="_blank"><strong>Conduit Books &amp; Ephemera – Marystina Santiestevan First Book Prize</strong></a>
+<p><a href="http://www.conduit.org/books/" rel="noopener" target="_blank"><strong>Conduit Books &amp; Ephemera – Marystina Santiestevan First Book Prize</strong></a> /<strong> </strong>August 1 – October 15, 2018 / Poetry / $25 / Prize: $1,000 / Judge: Bob Hicok</p>
+<p><strong><a href="http://www.conduit.org/books/" rel="noopener" target="_blank">Conduit Books &amp; Ephemera –  Minds on Fire Open Book Prize</a> </strong>/<strong> </strong>August 1 – October 15, 2018 / Poetry / $25 / Prize: $1,000</p>
+<p><strong><a href="http://www.conduit.org/books/" rel="noopener" target="_blank">Conduit Books &amp; Ephemera –  Minds on Fire Open Book Prize</a> </strong>/<strong> </strong>August 1 – October 15, 2018 / Poetry / $25 / Prize: $1,000</p>
+<a href="http://copper-nickel.org/bookprize/" rel="noopener noreferrer" target="_blank"><strong>Copper Nickel – Jake Adam York Prize </strong></a>
+<p><strong><a href="http://counterpathpress.org/contact" rel="noopener noreferrer" target="_blank">Counterpath Press</a></strong> / Year-Round / Queries</p>
+<p><strong><a href="http://damagedgoodspress.com/dgp-submissions/" rel="noopener noreferrer" target="_blank">Damaged Goods Press</a></strong> / Now / Poetry, Essays, and Hybrid Writing from Queer and Trans Writers</p>
+<p><strong><a href="http://deepvellum.org/contact/" rel="noopener noreferrer" target="_blank">Deep Vellum Publishing</a></strong> / Year-Round / Translations of Fiction and Nonfiction</p>
+<p><strong><a href="https://dzancbooks.submittable.com/submit" rel="noopener noreferrer" target="_blank">Dzanc Books Fiction Prize</a></strong> / Deadline: September 30, 2018 / Fiction / $25 / Prize: $5,000 + Publication</p>
+<p><b></b><strong><a href="https://dzancbooks.submittable.com/submit" rel="noopener noreferrer" target="_blank">Dzanc Books – Short Story Collection Competition</a></strong> / Deadline: September 30, 2018 / Short Story Collections / $25 / Prize: $2,500 Advance + Publication</p>
+<a href="https://dzancbooks.submittable.com/submit" rel="noopener noreferrer" target="_blank"><strong>Dzanc Books Nonfiction Prize</strong></a>
+<p><strong><a href="http://elbalazopress.com/about-el-balazo/" rel="noopener noreferrer" target="_blank">El Balazo Press</a></strong> / Now / All Genres</p>
+<p><strong><a href="http://elixirpress.com/annual-poetry-contest/" rel="noopener noreferrer" target="_blank">Elixir Press Poetry Awards</a></strong> / Deadline: October 31, 2018 / Poetry / $30 / Prize: $2,000 + Publication</p>
+<p><strong><a href="http://fictionadvocate.com/submit-3/" rel="noopener noreferrer" target="_blank">Fiction Advocate</a></strong> / Now / Literary Criticism, Hybrid Fiction, Novels</p>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.fc2.org/prizes.html&amp;source=gmail&amp;ust=1535332955523000&amp;usg=AFQjCNEjVnDTv6EvmaXEKQxTtf43BhtSOw" href="http://www.fc2.org/prizes.html" rel="noopener" target="_blank">Fiction Collective 2 – Ronald Sukenick Innovative Fiction Contest</a> </strong> / <span class="aBn" data-term="goog_989103228" tabindex="0"><span class="aQJ">Deadline: November 1, 2018</span></span> / Fiction / $25 / Prize: $1,500 + Publication / Final Judge: Aimee Parkison</p>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.fc2.org/prizes.html&amp;source=gmail&amp;ust=1535332955523000&amp;usg=AFQjCNEjVnDTv6EvmaXEKQxTtf43BhtSOw" href="http://www.fc2.org/prizes.html" rel="noopener" target="_blank">Fiction Collective 2 – Catherine Doctorow Innovcative Fiction Prize</a> </strong> / Deadline: November 1, 2018 / Fiction from a Writer with at Least Three Books of Fiction Published / $25 / Prize: $15,000 + Publication / Final Judge: Shelley Jackson</p>
+<p><strong><a href="http://fourwaybooks.com/site/guidelines/" rel="noopener noreferrer" target="_blank">Four Way Books – It’s No Contest</a> </strong>/ November 15 – December 15, 2018 / Poetry by a NYC Resident</p>
+<p><strong><a href="https://www.getfreshbooksllc.com/your-manuscript.html" rel="noopener" target="_blank">Get Fresh Books</a></strong> / Now / Poetry Queries</p>
+<p><strong><a href="http://www.halfmystic.com/manuscripts/">Half Mystic Press</a></strong> / Year-Round / Poetry, Essay, &amp; Short Story Collections, Drama, Memoirs, Novellas &amp; Novels</p>
+<a href="http://www.harpoonreview.com/harpoon-books.html" rel="noopener" target="_blank"><strong>Harpoon Books</strong></a>
+<a href="http://www.haverthorn.co.uk/submissions.html" rel="noopener" target="_blank"><strong>HVTN</strong></a>
+<p class="category-name"><strong><a href="http://www.insidethecastle.org/?page_id=2402" rel="noopener noreferrer" target="_blank">Inside the Castle</a></strong> / Now / Prose, Poetry</p>
+<a href="https://www.interimpoetics.org/test-site-poetry-series/" rel="noopener" target="_blank"><strong>Interim – Test Site Poetry Series Contest</strong></a>
+<p><strong><a href="http://www.uiowapress.org/authors/iowa-prize.htm" rel="noopener noreferrer" target="_blank">Iowa Short Fiction Award</a></strong> / Deadline: September 30, 2018 / Short Stories</p>
+<p><strong><a href="http://www.kernpunktpress.com/submissions.html" rel="noopener noreferrer" target="_blank">Kernpunkt Press</a></strong> / Year-Round / Fiction / $10</p>
+<p><strong><a href="http://www.kiddiepunk.com/contact.htm" rel="noopener noreferrer" target="_blank">Kiddiepunk</a></strong> / Now / Zines and Books Centered Around Childhood</p>
+<a href="https://kraken.submittable.com/submit" rel="noopener noreferrer" target="_blank"><strong>Kraken Press</strong> </a>
+<p><strong><a href="http://www.onmetatron.org/metatron-prize-2017/" rel="noopener noreferrer" target="_blank">Metatron Prize for Rising Authors</a></strong> / Deadline: September 15, 2018 / All Genres / $15 / Prize: $500 (CAD), Publication + Book Bundle / Judges: CA Conrad + Anne Boyer</p>
+<p><strong><a href="http://moon-city-press.com/fiction-contest/" rel="noopener noreferrer" target="_blank">Moon City Press – Short Fiction Award</a></strong> / Deadline: October 1, 2018 / Collections of Short Fiction / $25 / Prize: $1,000 + Publication</p>
+<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.milkpressbooks.com/submit/&amp;source=gmail&amp;ust=1535332955602000&amp;usg=AFQjCNE2QgrX5tNAFwYSIJNOAFW4R7m0Yg" href="https://www.milkpressbooks.com/submit/" rel="noopener" target="_blank"><strong>Milk Press</strong> </a>
+<a href="https://newissuespress.com/submission-guidelines/" rel="noopener" target="_blank"><strong>New Issues Poetry Prize</strong></a>
+<a href="https://newissuespress.com/submission-guidelines/" rel="noopener" target="_blank"><strong>New Issues Green Rose Prize</strong></a>
+<p><strong><a href="http://www.nightboat.org/content/about-prize" rel="noopener noreferrer" target="_blank">Nightboat Books Poetry Prize</a></strong> / Deadline: November 15, 2018 / Poetry / $28 / Prize: $1,000 + Publication / Judges: Kazim Ali + Stephen Motika</p>
+<p><strong><a href="http://www.ohioswallow.com/poetry_prize" rel="noopener noreferrer" target="_blank">Ohio University Press – Hollis Summers Poetry Prize</a></strong> / Deadline: December 1, 2018 / Poetry / $30 / Prize: $1,000 + Publication</p>
+<p><strong><a href="http://omnidawn.com/contest/poetry-contests.htm" rel="noopener noreferrer" target="_blank">Omnidawn — Lake Merritt First/Second Book Contest</a></strong> / November 1 – December 29, 2018 / Poetry / $27 / Prize: $3,000 + Publication / Judge: Hoa Nguyen</p>
+<p><strong><a href="http://www.theoperatingsystem.org/publish-with-the-os/" rel="noopener" target="_blank">The Operating System</a></strong> / Now / Poetry, Fiction, Nonfiction, Drama, Cross-Genre</p>
+<p><strong><a href="https://orisonbooks.submittable.com/submit" rel="noopener noreferrer" target="_blank">Orison Books</a></strong> / Now / Nonfiction, Poetry in Translation</p>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://orsonspublishing.com/book-submissions/&amp;source=gmail&amp;ust=1528381617165000&amp;usg=AFQjCNGEVYZSsHk-OnnP0QwZxtqMKZyS3A" href="https://orsonspublishing.com/book-submissions/" rel="noopener" target="_blank"><span class="m_-8372582876441545457font"><span class="m_-8372582876441545457size">Orson’s Publishing</span></span></a></strong><span class="m_-8372582876441545457font"><span class="m_-8372582876441545457size"> </span></span><span class="m_-8372582876441545457size"><span class="m_-8372582876441545457font">/ Deadline: <span class="aBn" data-term="goog_535874006" tabindex="0"><span class="aQJ">October 1, 2018</span></span> / </span><span class="m_-8372582876441545457highlight"><span class="m_-8372582876441545457colour"><span class="m_-8372582876441545457font"> L</span><span class="m_-8372582876441545457font">iterary Fiction, Nonfiction, Fantasy, Sci-Fi, Westerns, Short Story Collections</span></span></span><span class="m_-8372582876441545457font"><br/>
+</span></span></p>
+<p><strong><a href="https://outpost19.submittable.com/submit" rel="noopener noreferrer" target="_blank">Outpost 19</a></strong> / Year-Round / Fiction, Nonfiction</p>
+<p><strong><a href="https://pankmagazine.submittable.com/submit" rel="noopener noreferrer" target="_blank">PANK</a></strong> / Now / Poetry, Fiction, Nonfiction, Experimental, Collaborative, Hybrid / $25</p>
+<a href="https://www.patient-sounds.com/contests" rel="noopener" target="_blank"><strong>Patient Presses</strong></a>
+<p class="title"><strong><a href="http://www.pen.org/content/penbellwether-prize-socially-engaged-fiction-25000?utm_content=16305962&amp;utm_medium=social&amp;utm_source=twitter" rel="noopener noreferrer" target="_blank">PEN/Bellwether Prize for Socially Engaged Fiction</a></strong> / Deadline: Deadline: October 12, 2018 / Fiction / $25 / Prize: $25,000 + Publication with Algonquin Books</p>
+<p><strong><a href="http://www.perseabooks.com/poetryprize.php" rel="noopener noreferrer" target="_blank">Persea Books – Lexi Rudnitsky First Book Prize</a></strong> / Deadline: October 31, 2018 / First Book of Poetry by an American Woman / $30 / Prize: $1,000 + Publication + 6-Week Residency in Italy</p>
+<p class="title"><strong><a href="http://www.perugiapress.com/contest.php" rel="noopener noreferrer" target="_blank">Perugia Press</a></strong> / Deadline: November 15, 2018 / First or Second Book of Poetry by a Woman / $27 / Prize: $1,000 + Publication</p>
+<p><b></b><strong><a href="http://platypuspress.co.uk/guidelines" rel="noopener noreferrer" target="_blank">Platypus Press</a></strong> / Year-Round / Poetry, Fiction, Nonfiction</p>
+<p><strong><a href="http://pleiadespress.org/about/guidelines/" rel="noopener noreferrer" target="_blank">Pleiades Press – The Lena-Miles Wever Todd Prize for Poetry </a></strong>/ October 15 – November 15, 2018 / Poetry / $25 / Prize: $2,000 + Publication + $1,000 for Book Tour Expenses / Judge: Traci Brimhall</p>
+<p><strong><a href="https://www.printedmatter.org/programs/events/723" rel="noopener noreferrer" target="_blank">Printed Matter, Inc.</a></strong> / Deadline: October 21, 2018 / Proposals for Artists’ Books / Prize: $1,500 + Publication</p>
+<a href="https://punctumbooks.com/contact/" rel="noopener" target="_blank"><strong>Punctum Books</strong></a>
+<a href="https://quercusreviewpress.com/2017/08/08/fall-2017-poetry-book-award/" rel="noopener" target="_blank"><strong>Quercus Review Press – Poetry Book Award</strong></a>
+<p><strong><a href="http://redhen.org/awards-2/bsa/" rel="noopener noreferrer" target="_blank">Red Hen Press – Benjamin Saltman Poetry Award</a></strong> / Deadline: October 31, 2018 / $25 / Prize: $3,000 + 4-Week PLAYA Residency + Publication / Judge: Marilyn Nelson</p>
+<p><strong><a href="http://redhen.org/awards-2/red-hen-press-fiction-award/" rel="noopener noreferrer" target="_blank">Red Hen Press – Fiction Award</a></strong> / Deadline: September 30, 2018 / Fiction / $25 / Prize: $1,000 + Publication / Judge: Ann Hood</p>
+<p><strong><a href="https://redhenpress.submittable.com/submit" rel="noopener noreferrer" target="_blank">Red Hen Press – General Submissions</a></strong> / Now / All Genres / $20</p>
+<p><strong><a href="https://redmountainpress.submittable.com/submit" rel="noopener noreferrer" target="_blank">Red Mountain Press Poetry Prize</a></strong> / Deadline: September 15, 2018 / Poetry / $30 / Prize: $1,000 + Publication</p>
+<p><strong><a href="http://www.respublishing.com/guidelines" rel="noopener" target="_blank">Resolute Publishing</a> </strong>/ Now / Fiction and Nonfiction by Women of Color</p>
+<a href="http://www.restlessbooks.com/prize-for-new-immigrant-writing/" rel="noopener noreferrer" target="_blank"><strong>Restless Books Prize for New Immigrant Writing</strong></a>
+<p><strong><a href="http://www.riverteethjournal.com/contests" rel="noopener noreferrer" target="_blank">River Teeth – Literary Nonfiction Prize</a></strong> / Deadline: October 31, 2018 / Nonfiction / $27 / Prize: $1,000 + Publication by University of New Mexico Press / Judge: Philip Lopate</p>
+<p><strong><a href="http://www.sarabandebooks.org/open-essay" rel="noopener noreferrer" target="_blank">Sarabande Books – Open Essay Submissions</a> </strong>/ Deadline: September 30, 2018 / Nonfiction / $20</p>
+<p><strong><a href="https://schismmsihcs.wordpress.com/about/" rel="noopener noreferrer" target="_blank">Schism Press</a></strong> / Now / Philosophy, Theory</p>
+<a href="https://www.seesharppress.com/submissions.html" rel="noopener" target="_blank"><strong>See Sharp Press</strong></a>
+<p><strong><a href="http://www.shademountainpress.com/contact.php" rel="noopener noreferrer" target="_blank">Shade Mountain Press</a></strong> / Deadline: November 30, 2018 / Fiction by D/deaf and/or Disabled Women</p>
+<a href="http://sporkpress.com/" rel="noopener" target="_blank"><strong>Spork Press</strong></a>
+<p><strong><a href="http://www.tavernbooks.org/wrolstad-series" rel="noopener noreferrer" target="_blank">Tavern Books – Wrolstad Contemporary Poetry Series</a> </strong>/ October 1, 2018 – January 15, 2019 / Poetry by Women Under 40 / $15 / Prize: $1,000 + 1-Month Residency in Carver, OR + Publication</p>
+<p><strong><a href="http://www.triohousepress.org/submissions.html">Trio House Press — Trio Award For First or Second Book </a></strong> / November 1, 2018  – April 30, 2019 / Poetry / $25 / $1,000 + Publication</p>
+<p><strong><a href="http://www.triohousepress.org/submissions.html">Trio House Press — Louise Bogan Award </a> </strong>/ November 1, 2018 – April 30, 2019 / Poetry / $25 / $1,000 + Publication</p>
+<p><strong><a href="https://twolines.submittable.com/submit/" rel="noopener noreferrer" target="_blank">Two Lines Press</a></strong> / Now / Translations of Novels and Short Story Collections</p>
+<p><strong><a href="https://uark.submittable.com/submit/28003" rel="noopener noreferrer" target="_blank">University of Arkansas Press – Miller Williams Poetry Prize</a></strong> / Deadline: September 30, 2018 / Poetry / $28 / Series Editor: Billy Collins / Prize: $5,000 + Publication</p>
+<p><strong><a href="https://uark.submittable.com/submit/28003" rel="noopener noreferrer" target="_blank">University of Arkansas Press – CantoMundo Poetry Prize</a></strong> / Deadline: April 15, 2019 / Poetry from Latina/o Writers / $28 / Prize: $1,000 + Publication</p>
+<p><strong><a href="https://uark.submittable.com/submit/28003" rel="noopener noreferrer" target="_blank">University of Arkansas Press – Etel Adnan Prize</a></strong> / Deadline: April 15, 2019 / First or Second Books of Poetry from Writers of Arab Heritage / $25 / Prize: $1,000 + Publication</p>
+<p><strong><a href="https://untpress.unt.edu/contest" rel="noopener noreferrer" target="_blank">University of North Texas Press – Vassar Miller Prize</a></strong> / Deadline: October 31, 2018 / Poetry / $25 / Prize: $1,000 + Publication</p>
+<p><a name="chapbooks"></a><strong><a href="https://creativewriting.wisc.edu/submit.html" rel="noopener noreferrer" target="_blank">University of Wisconsin Press – Brittingham &amp; Felix Pollak Poetry Prizes</a></strong> / Deadline: September 15, 2018 / Poetry / $28 / Prize: $1,000 + Publication</p>
+<p><strong><a href="http://youngerpoets.yupnet.org/submission-instructions/" rel="noopener noreferrer" target="_blank">Yale Younger Poets Series</a> </strong>/ October 1 – November 15, 2018 / Poetry / $25 / Judge: Carl Phillips</p>
+<p><strong><a href="http://furtherotherbookworks.com/index.php/attn/attn-open-archive/" rel="noopener noreferrer" target="_blank"><em>ATTN</em>: Open Archive Series</a> </strong>/ Now / Multiple-Author Poetry Collections and Archives</p>
+<p><strong><a href="http://furtherotherbookworks.com/index.php/attn/attn-open-archive/" rel="noopener noreferrer" target="_blank"><em>ATTN</em>: Correspondences</a> </strong>/ Now / Poetry Collaborations</p>
+<p><strong><a href="https://balticwritingresidency.submittable.com/Submit" rel="noopener noreferrer" target="_blank">Baltic Writing Residency – Chapbook Contest</a></strong> / Deadline: February 15, 2019 / Poetry / $23 / Prize: $750 + Publication with Rabbit Catastrophe Press / Judge: Darcie Dennigan</p>
+<p><strong><a href="http://batcatpress.com/submissions/" rel="noopener noreferrer" target="_blank">Batcat Press</a></strong> / Deadline: January 1, 2018 / All Genres</p>
+<a href="http://bateaupress.org/submission-guidelines/" rel="noopener noreferrer" target="_blank"><strong>Bateau Press – Boom Chapbook Contest</strong></a>
+<p><strong><a href="http://www.bottlecap.press/subguidelines" rel="noopener noreferrer" target="_blank">Bottlecap Press</a></strong> / Now / Poetry, Fiction</p>
+<p><strong><a href="http://centerforbookarts.org/opportunities/for-writers/" rel="noopener noreferrer" target="_blank">Center for Book Arts – Poetry Chapbook Competition</a></strong> / Deadline: December 15, 2018 / Poetry / $30 / Prize: $1,000 + Publication + Residency at the Millay Colony for the Arts / Judge: Edwin Torres</p>
+<p><strong><a href="http://damagedgoodspress.com/dgp-submissions/" rel="noopener noreferrer" target="_blank">Damaged Goods Press</a></strong> / Now / Poetry, Essays, and Hybrid Writing from Queer and Trans Writers</p>
+<p><strong><a href="http://disorderpress.com/submissions/" rel="noopener noreferrer" target="_blank">Disorder Press</a></strong> / Year-Round / Poetry, Fiction, Nonfiction</p>
+<p><strong><a href="http://eggtootheditions.tumblr.com/contestlong" rel="noopener noreferrer" target="_blank">Eggtooth Editions</a></strong> / September 15 – December 15, 2018 / Poetry, Drama, Fiction, Nonfiction, Comics, Visual Art, Hybrid / $10</p>
+<p><strong><a href="http://www.foundlingsmagazine.com/home.html" rel="noopener" target="_blank">Foundlings Press – Chapbook Contest</a> </strong>/ Deadline: October 1, 2018 / Poetry / $3 / Prize: Publication + Weekend Residency in Buffalo, NY</p>
+<a href="https://francishouse.submittable.com/submit/109259/open-chapbook-submissions-2018" rel="noopener" target="_blank"><strong>Francis House</strong></a>
+<p><strong><a href="https://homeboundpublications.submittable.com/submit" rel="noopener noreferrer" target="_blank">Homebound Publications – Little Bound Chapbook Series</a></strong> / Now / Fiction, Nonfiction</p>
+<p><strong><a href="http://newfoundjournal.org/poetry-prize/" rel="noopener noreferrer" target="_blank">Newfound – Gloria Anzaldúa Poetry Prize</a></strong> / Deadline: September 17, 2018 / $15 / Prize: $1,000 + Publication / Judge: Cynthia Cruz</p>
+<a href="http://www.oversoundpoetry.com/chapbook/" rel="noopener" target="_blank"><strong>Oversound Chapbook Prize</strong></a>
+<p><strong><a href="https://pankmagazine.submittable.com/submit" rel="noopener" target="_blank">PANK</a></strong> / Now / Poetry, Fiction, Nonfiction, Hybrid / $20</p>
+<p><strong><a href="https://pitymilkpress.wordpress.com/submissions/" rel="noopener" target="_blank">pitymilk press</a></strong> / Now / Poetry, Hybrid</p>
+<p><strong><a href="http://platypuspress.co.uk/guidelines" rel="noopener noreferrer" target="_blank">Platypus Press</a></strong> / Now / Fiction, Nonfiction, Poetry</p>
+<p><strong><a href="http://platypuspress.co.uk/guidelines" rel="noopener noreferrer" target="_blank">Platypus Press – Digital Shorts</a></strong> / Now / Fiction</p>
+<p><strong><a href="http://sixthfinch.com/submit" rel="noopener noreferrer" target="_blank">Sixth Finch</a></strong> / Deadline: October 8, 2018 / Poetry / $12</p>
+<p><strong><a href="https://throwbackbooks.submittable.com/submit" rel="noopener" target="_blank">Throwback Books</a></strong> / Now / Poetry, Prose, Coloring Books</p>
+<p><a name="journals"></a><strong><a href="http://cavecanempoets.org/prizes/toi-derricotte-cornelius-eady-chapbook-prize/" rel="noopener noreferrer" target="_blank">Toi Derricotte &amp; Cornelius Eady Chapbook Prize</a> </strong>/ Deadline: September 30, 2018 / Poetry / $12 / Prize: $500 + Publication by Jai-Alai Books + Residency at The Writer’s Room / Judge: Dawn Lundy Martin</p>
+<p><strong><a href="http://3elementsreview.com/submit" rel="noopener noreferrer" target="_blank">3Elements Review</a></strong> / Deadline: October 31, 2018 / Fiction, Poetry, Nonfiction, Art, Photography</p>
+<p><strong><a href="https://32poems.submittable.com/submit" rel="noopener noreferrer" target="_blank">32 Poems</a> </strong>/ Year-Round / Poetry, Reviews / $3, Free</p>
+<p><strong><a href="https://8poems.com/about">8 Poems</a></strong> / Year-Round / Poetry</p>
+<p><strong><a href="https://apublicspacedemo.submittable.com/submit" rel="noopener noreferrer" target="_blank">A Public Space</a></strong> / September 15, 2018 – April 15, 2019 / Fiction, Poetry, Nonfiction</p>
+<a href="https://www.avelvetgiant.com/submit/" rel="noopener" target="_blank"><strong>A VELVET GIANT</strong></a>
+<a href="http://aumag.org/submissions/" rel="noopener" target="_blank"><strong>A&amp;U Magazine</strong></a>
+<p><strong><a href="http://adoreadoreadore.com/call-submissions-fey/" rel="noopener" target="_blank">AADOREE — The Fey</a> </strong>/ September 22 – December 21, 2018 / Experimental Writing</p>
+<p><strong><a href="http://www.aaduna.org/submission-process/" rel="noopener noreferrer" target="_blank">Aaduna</a></strong> / Deadline: November 16, 2018 / Prose, Poetry, Visual Art</p>
+<p><b></b><strong><a href="http://www.acentosreview.com/Submission_Guidelines.html" rel="noopener noreferrer" target="_blank">The Acentos Review</a></strong> / Year-Round / Poetry, Fiction, Nonfiction, Translation, Cross-Genre, Art</p>
+<a href="https://aglimpseof.net/" rel="noopener" target="_blank"><strong>A) Glimpse) Of)</strong></a>
+<p><strong><a href="https://www.alwayscrashing.com/submissions-1/" rel="noopener" target="_blank">Always Crashing</a></strong> / Now / Fiction, Poetry, Video, Audio, Other</p>
+<p><strong><a href="https://www.apjpoetry.org/submit" rel="noopener" target="_blank">American Poetry Journal</a></strong> / Open: September 8, 2018 / Poetry</p>
+<p><strong><a href="https://anastamos.submittable.com/submit" rel="noopener noreferrer" target="_blank">Anastamos — Tangible</a> </strong> / Deadline: October 10, 2018 / Poetry, Fiction, Nonfiction, Art, Academic</p>
+<p><strong><a href="http://www.angelcityreview.com/submissions/" rel="noopener noreferrer" target="_blank">Angel City Review</a></strong> / Deadline: November 5, 2018 / Fiction, Nonfiction, Poetry, Reviews</p>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://angryoldmanmagazine.com/&amp;source=gmail&amp;ust=1510442548278000&amp;usg=AFQjCNFdJHT3KdCCSGs-Dm0vh1XDeDIDrg" href="https://angryoldmanmagazine.com/submissions/" rel="noopener" target="_blank">Angry Old Man Magazine</a></strong> / Year-Round / All Genres</p>
+<a href="http://www.anmly.org/submit" rel="noopener" target="_blank"><strong>Anomaly</strong></a>
+<a href="http://www.anmly.org/submit" rel="noopener" target="_blank"><strong>Anomaly — Transtastic Tomorrows Folio</strong></a>
+<a href="http://www.anmly.org/submit" rel="noopener" target="_blank"><strong>Anomaly</strong></a>
+<a href="http://heroinchic.weebly.com/about.html" rel="noopener" target="_blank"><strong>Anti-Heroin Chic</strong></a>
+<p><strong><a href="http://aptpoetry.com/issue7/about.html" rel="noopener" target="_blank">Apartment Poetry</a></strong> / Year-Round / Poetry</p>
+<p><strong><a href="https://www.apercuslitmag.com/submit">Apercus</a></strong> / Year-Round / Poetry</p>
+<p><strong><a href="http://apiarymagazine.com/submit">Apiary Magazine</a> </strong>/ <span class="aBn" data-term="goog_989103223" tabindex="0"><span class="aQJ">Deadline: December 15, 2018</span></span> / Poetry, Fiction, Nonfiction and Hybrid Work from Philadelphia-Area Writers</p>
+<p><strong><a href="http://apricitypress.weebly.com/submissions.html" rel="noopener noreferrer" target="_blank">Apricity Press</a></strong> / Deadline: January 1, 2019  / Poetry, Prose, Art, Dance</p>
+<p><strong><a href="http://www.americanliteraryreview.com/submit.html" rel="noopener noreferrer" target="_blank">American Literary Review</a></strong> / October 1, 2018 – May 1, 2019 / Poetry, Fiction, Nonfiction, Reviews, Art / $3</p>
+<a href="http://www.americanliteraryreview.com/contest-guidelines.html" rel="noopener" target="_blank"><strong>American Literary Review – Annual Contest</strong></a>
+<p><b></b><strong><a href="https://americanshortfiction.submittable.com/submit" rel="noopener noreferrer" target="_blank">American Short Fiction</a></strong> / Year-Round / Fiction / $3</p>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://anatoliosmagazine.wordpress.com/guidelines/&amp;source=gmail&amp;ust=1535408036507000&amp;usg=AFQjCNHoJuha_MTCuM6zcVb3WK-luMTDyg" href="https://anatoliosmagazine.wordpress.com/guidelines/" rel="noopener" target="_blank">Anatolios Magazine</a> </strong>/ Deadline: September <span class="aBn" data-term="goog_989103258" tabindex="0"><span class="aQJ">30, 2018</span></span> / Poetry, Prose, Art, Photography</p>
+<a href="https://arcturus.chireviewofbooks.com/submit-your-work-a2c3f8bdac8c" rel="noopener" target="_blank"><strong>Arcturus</strong></a>
+<a href="http://www.arkint.org/submissions/" rel="noopener noreferrer" target="_blank"><strong>The Arkansas International</strong></a>
+<a href="http://www.arkint.org/submissions/" rel="noopener noreferrer" target="_blank"><strong>The Arkansas International — Emerging Writer’s Prize</strong></a>
+<a href="http://www.assayjournal.com/submit.html" rel="noopener" target="_blank"><strong>Assay: A Journal of Nonfiction Studies</strong></a>
+<p><strong><a href="https://atticusbooks.submittable.com/Submit" rel="noopener noreferrer" target="_blank">Atticus Review</a></strong> / Now / Fiction, Nonfiction, Poetry</p>
+<p><strong><a href="https://atticusbooks.submittable.com/Submit" rel="noopener noreferrer" target="_blank">Atticus Review — Flash Fiction Contest</a></strong> / September 4 – October 29, 2018 / Flash Fiction / $10-$15 / Prize: $500 + Publication / Judge: Mary Miller</p>
+<a href="https://automatareview.com/submissions/" rel="noopener" target="_blank"><strong>Automata Review</strong></a>
+<a href="https://awkwardmermaid.com/submit/" rel="noopener" target="_blank"><strong>Awkward Mermaid</strong></a>
+<a href="https://www.baestjournal.com/submit/" rel="noopener" target="_blank"><strong>bæst: a journal of queer forms &amp; affects</strong></a>
+<a href="http://www.batcityreview.org/submit/" rel="noopener" target="_blank"><strong>Bat City Review</strong></a>
+<p><strong><a href="https://bayoumagazine.submittable.com/submit" rel="noopener noreferrer" target="_blank">Bayou Magazine</a></strong> / Deadline: <span class="aBn" data-term="goog_989103157" tabindex="0"><span class="aQJ">May 1, 2019</span></span> / Fiction, Poetry, Nonfiction, Visual Art</p>
+<p><strong><a href="https://bayoumagazine.submittable.com/submit" rel="noopener noreferrer" target="_blank">Bayou Magazine — James Knudsen Prize for Fiction</a></strong> / <span class="aBn" data-term="goog_989103158" tabindex="0"><span class="aQJ">October 1, 2018</span></span> – <span class="aBn" data-term="goog_989103159" tabindex="0"><span class="aQJ">January 1, 2019</span></span> / $20 /  Prize: $1,000 + Publication</p>
+<p><strong><a href="https://bayoumagazine.submittable.com/submit" rel="noopener noreferrer" target="_blank">Bayou Magazine — Kay Murphy Prize for Poetry</a></strong> / <span class="aBn" data-term="goog_989103158" tabindex="0"><span class="aQJ">October 1, 2018</span></span> – <span class="aBn" data-term="goog_989103159" tabindex="0"><span class="aQJ">January 1, 2019</span></span> / $20 /  Prize: $1,000 + Publication</p>
+<p><strong><a href="https://bearreview.submittable.com/submit#_=_" rel="noopener" target="_blank">Bear Review</a></strong> / Now / Poetry, Flash Fiction, Flash Nonfiction, Art</p>
+<p><strong><a href="https://beechstreetreview.com/guidelines/" rel="noopener noreferrer" target="_blank">Beech Street Review</a></strong> / October 1 -31, 2018 / Poetry</p>
+<p><strong><a href="https://beechersmag.submittable.com/submit" rel="noopener noreferrer" target="_blank">Beecher’s Magazine</a></strong> / Deadline: February 14, 2019 / Poetry, Fiction, Flash Fiction, Nonfiction</p>
+<p><strong><a href="http://www.benningtonreview.org/submit/" rel="noopener noreferrer" target="_blank">Bennington Review</a></strong> / Deadline: November 1, 2018 – May 15, 2019 / Poetry, Fiction, Nonfiction, Writing on Film, Cross-Genre</p>
+<a href="https://www.ocf.berkeley.edu/~bpr/submission-guidelines/" rel="noopener" target="_blank"><strong>Berkeley Poetry Review</strong></a>
+<a href="https://medium.com/@beyondtheblock/beyond-the-block-is-accepting-submissions-93cfadb2b2dd" rel="noopener" target="_blank"><strong>Beyond the Block</strong></a>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.bigecho.org/submissions/&amp;source=gmail&amp;ust=1516149850319000&amp;usg=AFQjCNGgwic0nA0O1yX5iBYLdTpaEmNM2g" href="http://www.bigecho.org/submissions/" rel="noopener" target="_blank">Big Echo: Critical Science Fiction</a> </strong>/ Now / Speculative Poetry, Science Fiction Poetry</p>
+<p><strong><a href="https://blacksunlit.submittable.com/submit" rel="noopener noreferrer" target="_blank">Black Sun Lit</a></strong> / Year-Round / Prose, Poetry, Essays, Translations, Art</p>
+<a href="http://blacksunlit.com/2018/08/open-call-for-submissions-vestiges_04-aphasia/" rel="noopener" target="_blank"><strong>Black Sun Lit – Vestiges</strong></a>
+<p><strong><a href="http://bloodorangereview.com/submit/" rel="noopener noreferrer" target="_blank">Blood Orange Review</a></strong> / Deadline: April 30, 2019 / Poetry, Fiction, Nonfiction / $3</p>
+<p><strong><a href="https://blueearthreview.submittable.com/submit" rel="noopener noreferrer" target="_blank">Blue Earth Review</a> </strong>/ Year-Round / Nonfiction, Poetry</p>
+<p><b></b><strong><a href="https://bluemesareview.submittable.com/submit" rel="noopener noreferrer" target="_blank">Blue Mesa Review</a></strong> / October 1, 2018 – March 15, 2019 / Fiction, Nonfiction, Poetry</p>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://bodegamag.com&amp;source=gmail&amp;ust=1485746054652000&amp;usg=AFQjCNHHmDjpxMB5mdjivPYOi_s0R37gQg" href="https://bodegamagazine.submittable.com/submit" rel="noopener noreferrer" target="_blank">Bodega Magazine</a></strong> / Now / Poetry, Fiction, Nonfiction</p>
+<p><strong><a href="https://theboilerjournal.com/guidelines/" rel="noopener noreferrer" target="_blank">The Boiler</a></strong> / September 15 – November 15, 2018 / Poetry, Fiction, Nonfiction, Art</p>
+<p><strong><a href="https://booth.submittable.com/submit" rel="noopener" target="_blank">Booth</a></strong> / Deadline: March 31, 2019 / Poetry, Fiction, Nonfiction, Comics, Lists</p>
+<p><strong><a href="http://bcrossing.org/submission-guidelines/" rel="noopener" target="_blank">Border Crossing</a> </strong>/ September 15, 2018 – February 1, 2019 / Fiction, Nonfiction, Poetry</p>
+<p><strong><a href="https://borderlands.submittable.com/submit" rel="noopener noreferrer" target="_blank">Borderlands: Texas Poetry Review</a></strong> / September 15 – December 15, 2018 / Poetry, Essays, Reviews</p>
+<a href="http://www.bostonaccentlit.com/submit" rel="noopener" target="_blank"><strong>Boston Accent</strong></a>
+<p><strong><a href="http://www.bottlecap.press/subguidelines" rel="noopener noreferrer" target="_blank">Bottlecap Press – Blog</a></strong> / Now / Poetry, Fiction, Multimedia</p>
+<p><b></b><strong><a href="https://boulevard.submittable.com/submit" rel="noopener noreferrer" target="_blank">Boulevard</a></strong> / October 1, 2018 – May 1, 2019 / Fiction, Poetry, Nonfiction / $3</p>
+<p><strong><a href="https://boulevard.submittable.com/submit" rel="noopener noreferrer" target="_blank">Boulevard — Short Fiction and Nonfiction Contests for Emerging Writers</a></strong> / Deadline: September 30, 2018 / Fiction,  Nonfiction / $16 / Prize: $1,500 (SF) $1,000 (N)</p>
+<p><strong><a href="https://breakwaterreview.submittable.com/submit">Breakwater Review </a></strong>/ Year-Round / Poetry, Prose, Art</p>
+<p><strong><a href="https://breakwaterreview.submittable.com/submit">Breakwater Review — Short Fiction Contest</a> </strong>/ Deadline: December 15, 2018 / $10 / Prize: $1,000 + Publication / Judge: Jane Unrue</p>
+<a href="https://broadsidedpress.org/submissions/" rel="noopener" target="_blank"><strong>Broadsided Press</strong></a>
+<a href="http://cabildoquarterly.tumblr.com/senditin" rel="noopener" target="_blank"><strong>Cabildo Quarterly</strong></a>
+<p><strong><a href="http://cahoodaloodaling.com/submission-calls/" rel="noopener" target="_blank">cahoodaloodaling – Issue 27: Joy Sticks</a></strong> / Deadline: <span class="aBn" data-term="goog_283842219" tabindex="0"><span class="aQJ">September 14, 2018</span></span> / Poetry, Fiction, Nonfiction, Reviews, Art, Music</p>
+<p><strong><a href="http://www.calamitymag.com/submit" rel="noopener noreferrer" target="_blank">CALAMITY</a></strong> / Year-Round / Poetry, Art</p>
+<p><strong><a href="http://callaloo.tamu.edu/node/208" rel="noopener noreferrer" target="_blank">Callaloo</a></strong> / Now / Essays, Fiction, Poetry, Art</p>
+<a href="http://calyxpress.org/submission.html" rel="noopener" target="_blank"><strong>CALYX</strong></a>
+<p><strong><a href="http://www.thecaprareview.com/?page_id=62" rel="noopener" target="_blank">The Capra Review</a></strong> / Year-Round / Fiction, Nonfiction, Art</p>
+<p><strong><a href="http://www.cardiffreview.com/#!submissions/c23i6" rel="noopener noreferrer" target="_blank">The Cardiff Review</a></strong> / Now / Prose, Poetry, Reviews, Illustrations, Photography, Comics</p>
+<p><strong><a href="https://catapult.submittable.com/submit" rel="noopener" target="_blank">Catapult</a></strong> / Now / Nonfiction, Fiction (October 1- 31, 2018)</p>
+<p><strong><a href="http://ceasecows.com/submissions/" rel="noopener" target="_blank">Cease, Cows</a></strong> / Deadline: April 1, 2018 / Flash Fiction</p>
+<p><strong><a href="http://cheatriverreview.com/guidelines/" rel="noopener noreferrer" target="_blank">Cheat River Review</a></strong> / Deadline: October 1, 2018 / Poetry, Nonfiction, Flash Nonfiction, Art</p>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?q=https://cherrytree.submittable.com/submit&amp;source=gmail&amp;ust=1531679360410000&amp;usg=AFQjCNGU4UNsVvUeHU2Tt510ehp9WRR34g" href="https://cherrytree.submittable.com/submit" rel="noopener" target="_blank">Cherry Tree</a></strong> / Deadline: October 1, 2018 / Poetry, Fiction, Nonfiction, Cross-Genre, Literary Shade</p>
+<p><strong><a href="https://cleavermagazine.submittable.com/submit" rel="noopener noreferrer" target="_blank">Cleaver Magazine</a> </strong>/ Now / Fiction, Flash Fiction, Nonfiction, Poetry, Radio Plays</p>
+<a href="http://www.cladesong.com/submissions.html" rel="noopener" target="_blank"><strong>Clade Song</strong></a>
+<p><b></b><strong><a href="http://www.cloudrodeojournal.com/sub-mi-t_.html" rel="noopener noreferrer" target="_blank">Cloud Rodeo</a></strong> / Year-Round / Fiction, Nonfiction, Poetry</p>
+<p><b></b><strong><a href="https://coloradoreview.submittable.com/Submit" rel="noopener noreferrer" target="_blank">Colorado Review</a></strong> / Deadline: April 30, 2019 / Fiction, Poetry, Nonfiction (Open Year-Round)</p>
+<p><strong><a href="http://columbiareviewmag.com/submit/" rel="noopener noreferrer" target="_blank">Columbia Review</a> </strong>/ Deadline: November 13, 2018 / All Genres</p>
+<p><strong><a href="https://walleahpress.com.au/communion-guidelines.html" rel="noopener" target="_blank">Communion Arts Journal</a> </strong>/ Year-Round / Fiction, Poetry, Fiction, Art, Music</p>
+<p><b></b><strong><a href="http://coniumreview.com/submission-guidelines/" rel="noopener noreferrer" target="_blank">The Conium Review</a></strong> / Year-Round / Fiction / $3</p>
+<a href="http://constructionlitmag.com/submit/" rel="noopener" target="_blank"><strong>Construction Magazine</strong></a>
+<p><strong><a href="http://con-text.co/writeforus" rel="noopener noreferrer" target="_blank">con•text</a> </strong>/ Year-Round / Reviews, Essays</p>
+<p><strong><a href="http://www.thecontinentalreview.com/submit/" rel="noopener noreferrer" target="_blank">The Continental Review</a></strong> / Year-Round / Video Poetry</p>
+<p><strong><a href="http://copper-nickel.org/submit/" rel="noopener" target="_blank">Copper Nickel</a></strong> / Deadline: December 15, 2018 / Poetry, Fiction, Essays, Translation Folios</p>
+<p><strong><a href="https://cordite.submittable.com/submit" rel="noopener noreferrer" target="_blank">Cordite Poetry Review — DOMESTIC</a></strong> / Deadline: November 11, 2018 / Poetry</p>
+<p><strong><a href="https://cosmonautsavenue.submittable.com/submit" rel="noopener noreferrer" target="_blank">Cosmonauts Avenue</a></strong> / Now / Poetry, Fiction, Nonfiction</p>
+<a href="https://www.cottonxenomorph.com/submissions" rel="noopener" target="_blank"><strong>Cotton Xenomorph</strong></a>
+<a href="https://counterclockjournal.weebly.com/submit.html" rel="noopener" target="_blank"><strong>COUNTERCLOCK</strong></a>
+<p><strong><a href="http://crabfatmagazine.com/" rel="noopener noreferrer" target="_blank">Crab Fat Magazine</a></strong> / Now / Fiction, Flash Fiction, Poetry, Nonfiction, Art, Reviews</p>
+<p><b></b><strong><a href="https://crazyhorse.submittable.com/submit" rel="noopener noreferrer" target="_blank">Crazyhorse</a></strong> / Deadline: May 31, 2019 / Fiction, Poetry, Nonfiction / $3</p>
+<p><strong><a href="http://www.cutbankonline.org/print-edition/" rel="noopener noreferrer" target="_blank">CutBank</a></strong> / September 15, 2018 – February 1, 2019 / Fiction, Poetry, Nonfiction</p>
+<a href="https://darkwoodmag.atavist.com/submit" rel="noopener" target="_blank"><strong>Dark Wood</strong></a>
+<a href="http://deadalivemagazine.com/submit.html" rel="noopener" target="_blank"><strong>Dead Alive Magazine</strong></a>
+<a href="http://www.decentrejournal.xyz/subguid/" rel="noopener" target="_blank"><strong>D</strong><strong>ecentre</strong></a>
+<a href="http://www.decentrejournal.xyz/subguid/" rel="noopener" target="_blank"><strong>D</strong><strong>ecentre</strong></a>
+<a href="http://www.radioactivemoat.com/submit.html" rel="noopener" target="_blank"><strong>Deluge</strong></a>
+<p><strong><a href="http://www.du.edu/denverquarterly/submissions/" rel="noopener noreferrer" target="_blank">Denver Quarterly</a></strong> / October 15, 2018 – February 15, 2019 / Prose, Poetry, Translations, Reviews, Interviews</p>
+<p><strong><a href="http://www.thedestroyermag.com/submit.php" rel="noopener noreferrer" target="_blank">The Destroyer</a></strong> / Now / Poetry, Prose, Cross-Genre, Video, Audio, New Media, Art, Reviews</p>
+<p><strong><a href="http://birdspiledloosely.com/dogbird-journal/#/dogbird-submission-guidelines/" rel="noopener" target="_blank">Dogbird</a></strong> / Year-Round / Collaborative Writing</p>
+<p><strong><a href="http://www.dreampoppress.net/submit/" rel="noopener" target="_blank">Dream Pop Journal</a></strong> / Year-Round / Poetry, Prose, Art</p>
+<a href="https://medium.com/dreamnoir/submission-guidelines-7d15628183b" rel="noopener" target="_blank"><strong>Dream Noir</strong></a>
+<a href="http://www.duendeliterary.org/submissions/" rel="noopener noreferrer" target="_blank"><strong>Duende</strong> </a>
+<p><strong><a href="http://www.dumdumzine.com/submit/" rel="noopener noreferrer" target="_blank">DUM DUM Zine</a></strong> / Year-Round / Fiction, Letters, Nonfiction, Poetry, Visual Art</p>
+<p><strong><a href="http://elbalazopress.com/about-el-balazo/" rel="noopener noreferrer" target="_blank">El Balazo Press</a></strong> / Now / Poetry, Short Fiction, Essays</p>
+<p><strong><a href="http://www.elkejournal.com/submit/" rel="noopener noreferrer" target="_blank">ELKE “A Little Journal”</a></strong> / Year-Round / Fiction, Poetry, Nonfiction, Translations, Comics, Art</p>
+<p><strong><a href="https://ellipsis.submittable.com/submit">ellipsis… literature &amp; art</a></strong> / Deadline: <span class="aBn" data-term="goog_989103229" tabindex="0"><span class="aQJ">November 1, 2018</span></span> / Nonfiction, Fiction, Drama, Visual Art, Poetry</p>
+<p><strong><a href="https://www.emptymirrorbooks.com/submissions" rel="noopener" target="_blank">Empty Mirror</a></strong> / Year-Round / Poetry, Nonfiction, Visual Art, Reviews, Interviews, Criticism</p>
+<p><strong><a href="https://entropymag.org/submission-guidelines/" rel="noopener noreferrer" target="_blank">Entropy</a></strong> / Year-Round / Essays, Reviews, Interviews, Fiction, Poetry, More</p>
+<a href="http://www.epigraphmagazine.com/journal-submissions.html" rel="noopener" target="_blank"><strong>Epigraph</strong></a>
+<p><strong><a href="http://everypigeon.com/submission-guidelines/" rel="noopener noreferrer" target="_blank">Every Pigeon</a></strong> / Deadline: October 15, 2018 / Fiction, Nonfiction, Poetry, Photography, Art</p>
+<p><strong><a href="http://faded-out.com/" rel="noopener" target="_blank">Faded Out — Online Edition </a></strong>/ <span class="aBn" data-term="goog_1804452150" tabindex="0"><span class="aQJ">Year-Round</span></span> / Fiction, Poetry, Nonfiction</p>
+<p><strong><a href="https://burrowpress.submittable.com/submit" rel="noopener noreferrer" target="_blank">Fantastic Floridas</a></strong> / Now / Fiction, Poetry, and Nonfiction Related to Florida</p>
+<p><strong><a href="http://thefanzine.com/contact/" rel="noopener noreferrer" target="_blank">The Fanzine</a></strong> / Now / Personal Essays, Writing on Film, Essays on Modern Instances of Duende</p>
+<p><strong><a href="https://spr.submittable.com/submit" rel="noopener noreferrer" target="_blank">Fathom Books – Queer Anti-Dreams: 2000-2018</a></strong> / Now / Poetry, Nonfiction, Flash Fiction</p>
+<p><strong><a href="https://spr.submittable.com/submit" rel="noopener noreferrer" target="_blank">Fathom Books – Futureplant: A Gothic </a></strong>/ Now / Poetry, Nonfiction, Flash Fiction</p>
+<p><strong><a href="http://thefeelingsjournal.com/" rel="noopener" target="_blank">FEELINGS</a></strong> / Deadline: October 31, 2018 / Poetry, Art, Audio, Interviews / $5</p>
+<p><strong><a href="https://ocpress.submittable.com/submit" rel="noopener noreferrer" target="_blank">FIELD</a></strong> / Now / Poetry</p>
+<a href="http://figrootpress.com/submissions/" rel="noopener" target="_blank"><strong>Figroot Press</strong></a>
+<a href="http://thefigureone.com/about/" rel="noopener noreferrer" target="_blank"><strong>Figure 1</strong></a>
+<p><strong><a href="http://www.firepoetry.com/guidelines.html" rel="noopener noreferrer" target="_blank">Fire Poetry</a></strong> / September 15 – November 15, 2018 / Poetry, Art / $3</p>
+<p><strong><a href="http://five2onemagazine.com/submission-guidelines/" rel="noopener noreferrer" target="_blank">FIVE:2:ONE</a> </strong>/ Year-Round / Fiction, Poetry, Nonfiction, Art</p>
+<p><strong><a href="http://www.foglifterjournal.com/submission" rel="noopener noreferrer" target="_blank">Foglifter</a></strong> / October 1 – December 1, 2018 / Poetry, Prose, Drama, Cross-Genre</p>
+<p><strong><a href="http://www.foundryjournal.com/submit.html" rel="noopener noreferrer" target="_blank">Foundry</a></strong> / Year-Round / Poetry</p>
+<p><strong><a href="http://msupress.org/journals/fg/subguide/?id=50-214-6" rel="noopener noreferrer" target="_blank">Fourth Genre</a></strong> / Deadline: November 30, 2018 / Nonfiction / $4</p>
+<p><b></b><strong><a href="https://floridareview.submittable.com/Submit" rel="noopener noreferrer" target="_blank">The Florida Review</a></strong> / Now / Fiction, Nonfiction, Poetry, Graphic Narrative, Reviews, Art / $2-3</p>
+<a href="https://arts.cgu.edu/foothill-journal/submission-guidelines/" rel="noopener" target="_blank"><strong>Foothill</strong></a>
+<p><strong><a href="http://forthesonorous.wixsite.com/forthesonorous/submissions" rel="noopener noreferrer" target="_blank">For the Sonorous</a></strong> / Now / Poetry, Fiction, Nonfiction, and Visual Art from Women of Color and Non-Binary People of Color</p>
+<p><strong><a href="http://www.freestatereview.com/submit.html" rel="noopener noreferrer" target="_blank">Free State Review</a></strong> / Now / Poetry, Prose / $3</p>
+<p><strong><a href="http://tetheredbyletters.com/friction-guidelines/" rel="noopener noreferrer" target="_blank">F(r)iction</a> </strong>/ Year-Round / Fiction, Nonfiction, Poetry, Comics / $5</p>
+<p><strong><a href="http://www.full-stop.net/masthead/" rel="noopener noreferrer" target="_blank">Full Stop</a></strong> / Now / Reviews, Interviews, Nonfiction, Cultural Criticism</p>
+<a href="https://www.gasherjournal.com/submission" rel="noopener" target="_blank"><strong>GASHER Journal</strong></a>
+<p><strong><a href="http://www.theghoststory.com/tgs-fiction-award">The Ghost Story — Supernatural Fiction Award</a></strong> / Deadline: <span class="aBn" data-term="goog_989103226" tabindex="0"><span class="aQJ">September 30, 2018</span></span> / Short Stories / $20 / Prize: $1,000 +  Publication</p>
+<a href="http://www.glittermobmag.com/submit.html" rel="noopener noreferrer" target="_blank"><strong>GlitterMOB</strong> </a>
+<p><strong><a href="https://goldwakepress.submittable.com/submit" rel="noopener" target="_blank">Gold Wake Live</a> </strong>/ Now / All Genres / $2</p>
+<p><strong><a href="http://goodnightsweetprince.rip/production-notes.html" rel="noopener noreferrer" target="_blank">Goodnight, Sweet Prince</a></strong> / Now / Essays About Side Characters</p>
+<p><strong><a href="https://gramamag.wordpress.com/submissions/">grama</a></strong> / Year-Round / Poetry, Essays and Reviews Engaging with the North American West</p>
+<p><strong><a href="https://gravel.submittable.com/submit" rel="noopener noreferrer" target="_blank">Gravel</a></strong> / Now / Fiction, Nonfiction, Poetry, Hybrid, Art, Videos, Reviews, Interviews</p>
+<p><strong><a href="https://www.gravitonlit.com/submit" rel="noopener noreferrer" target="_blank">Graviton</a></strong> / Now / Science-Inspired Poetry and Art</p>
+<p><strong><a href="http://thegravityofthething.com/submit/" rel="noopener noreferrer" target="_blank">The Gravity of the Thing</a> </strong>/ Deadline: October 31, 2018 / Defamiliarized and Experimental Fiction, Nonfiction, Poetry, Six-Word Stories, Hybrids</p>
+<p><strong><a href="http://www.wearegrimoire.com/submit/" rel="noopener noreferrer" target="_blank">Grimoire Magazine</a></strong> / Year-Round / Fiction, Nonfiction, Poetry, Dreams, Dead Letters, Séances</p>
+<p><strong><a class="m_-4878697965479681873OWAAutoLink" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://gristjournal.com/submissions/&amp;source=gmail&amp;ust=1521331685827000&amp;usg=AFQjCNG1oQFCkN5-SJx7YxnMUxDW28i-uA" href="http://gristjournal.com/submissions/" id="m_-4878697965479681873LPlnk664359" rel="noopener" target="_blank">Grist: A Journal of the Literary Arts</a> </strong>/ <span class="aBn" data-term="goog_381951566" tabindex="0"><span class="aQJ">Deadline: September 15, 2018</span></span> / Poetry, Fiction, Nonfiction, Craft Essays / $4</p>
+<p><strong><a href="https://pitymilkpress.wordpress.com/submissions/" rel="noopener" target="_blank">Gritty Silk</a></strong> / Now / Collaborative Poetry and Hybrid Writing</p>
+<p><strong><a href="http://handandpoetry.blogspot.ca/" rel="noopener" target="_blank">h&amp;</a> </strong>/ Now / Visual / Concrete Poetry</p>
+<p><strong><a href="http://www.habitatlitmag.com/submit" rel="noopener noreferrer" target="_blank">Habitat</a> </strong>/ Deadline: December 31, 2018 / Fiction, Nonfiction, Poetry, Art</p>
+<p><strong><a href="http://www.halfmystic.com/journal/">Half Mystic Journal</a></strong> / Now / Poetry, Fiction, Drama, Creative Nonfiction and Hybrid Work About Music, Original Music</p>
+<p><strong><a href="http://www.harpoonreview.com/submissions.html" rel="noopener noreferrer" target="_blank">The Harpoon Review</a></strong> / Now / All Genres</p>
+<p><strong><a href="http://hardlydoughnuts.com/submissions" rel="noopener noreferrer" target="_blank">Hardly Doughnuts</a></strong> / Year-Round / Poetry, Micro Fiction</p>
+<p><strong><a href="http://heavyfeatherreview.com/submit/" rel="noopener noreferrer" target="_blank">Heavy Feather Review</a> </strong>/ Year-Round / Essays</p>
+<p><strong><a href="https://heavyfeatherreview.submittable.com/submit/71422/notmypresident-online">Heavy Feather Review – #NoMorePresidents</a></strong> / Year-Round / Fiction, Poetry, Nonfiction, Journalism, Comics, Hybrids</p>
+<a href="https://hellscapepress.wixsite.com/hellscape/submission-guidelines" rel="noopener" target="_blank"><strong>hellscape</strong></a>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://hematopoiesispress.com/&amp;source=gmail&amp;ust=1490376840539000&amp;usg=AFQjCNEH296kNj5wgRspMuuysX8LDE5-nw" href="http://hematopoiesispress.com/" rel="noopener noreferrer" target="_blank">Hematopoiesis Press</a></strong> / September 15 – December 31, 2018 / Fiction, Nonfiction, Poetry, Hybrid, Art</p>
+<a href="http://herontree.com/how/" rel="noopener" target="_blank"><strong>Heron Tree</strong></a>
+<p><strong><a href="https://hinchasdepoesia.submittable.com/submit" rel="noopener noreferrer" target="_blank">Hinchas de Poesia</a></strong> / Now / Poesia, Prosa, Artefactos, Reseñas</p>
+<a href="http://hobocampreview.blogspot.com/p/submission-guidelines.html" rel="noopener" target="_blank"><strong>Hobo Camp Review – Issue 35: Flash Around the Campfire Competition</strong></a>
+<p><strong><a href="http://www.homonymjournal.com/submit/" rel="noopener" target="_blank">Homonym Journal</a> </strong>/ Year-Round / Multilingual and Translation-Minded Writing and Art</p>
+<p><strong><a href="http://www.hootreview.com/submissions/" rel="noopener noreferrer" target="_blank">HOOT Review</a></strong> / Year-Round / Flash Fiction, Flash Nonfiction, Poetry / $2</p>
+<a href="https://hornypoetryreview.com/submit/" rel="noopener" target="_blank"><strong>Horny Poetry Review</strong></a>
+<p><b></b><strong><a href="https://hotmetalbridge.submittable.com/submit" rel="noopener noreferrer" target="_blank">Hot Metal Bridge</a></strong> / Deadline: December 1, 2018 / Fiction, Poetry, Nonfiction, Art</p>
+<p><strong><a href="http://huizachemag.org/about/submissions/" rel="noopener noreferrer" target="_blank">Huizache</a></strong> / Now / Prose, Poetry</p>
+<a href="https://www.thehungerjournal.com/submit" rel="noopener" target="_blank"><strong>The Hunger</strong></a>
+<p><b></b><strong><a href="https://hungermtn.submittable.com/submit" rel="noopener noreferrer" target="_blank">Hunger Mountain</a></strong> / Deadline: October 15, 2018 / Fiction, Poetry, Nonfiction, YA, Children’s Lit / $3</p>
+<p><strong><a href="https://hyperallergic.com/poetry/">Hyperallergic</a></strong> / Now / Poetry (See Bottom of Poetry Posts for Submission Guidelines)</p>
+<p><strong><a href="http://ichnos.net/" rel="noopener noreferrer" target="_blank">ICHNOS</a></strong> / Now</p>
+<p><strong><a href="https://identitytheory.submittable.com/submit" rel="noopener noreferrer" target="_blank">Identity Theory</a></strong> / Now / Fiction, Nonfiction, Poetry</p>
+<p><strong><a href="http://www.ilanotreview.com/submissions-page/" rel="noopener noreferrer" target="_blank">The Ilanot Review — Crisis</a></strong> / Deadline: October 31, 2018 / Poetry, Nonfiction, Hybrid, Art</p>
+<p class="gmail_default"><strong><a href="https://indianareview.org/submit/" rel="noopener" target="_blank">Indiana Review</a> </strong>/ <span class="aBn" data-term="goog_1814843239" tabindex="0"><span class="aQJ">Deadline: October 31, 2018</span></span> / Poetry, Fiction, Nonfiction / $3</p>
+<p class="gmail_default"><b></b><strong><a href="https://indianareview.org/submit/" rel="noopener" target="_blank">Indiana Review — Blue Lights Book Prize</a></strong> / Deadline: October 31, 2018 / Poetry Between 48-75 Pages/ $20 / Prize: $2,000 </p>
+<p><strong><a href="https://splitlip.submittable.com/submit" rel="noopener" target="_blank">Indiana Review x Split Lip — Collaborative Voices Folio</a> </strong> / Deadline: October 31, 2018 / Collaborative Poetry, Fiction and Nonfiction; Solo Work That Seriously Considers the Theme</p>
+<a href="https://theindianapolisreview.com/submit/" rel="noopener noreferrer" target="_blank"><strong>Indianapolis Review</strong></a>
+<a href="https://indicialit.com/submissions/" rel="noopener" target="_blank"><strong>indicia</strong></a>
+<a href="http://infiniterust.com/submit/" rel="noopener" target="_blank"><strong>Infinite Rust</strong></a>
+<p><strong><a href="https://inlandiaaliteraryjourney.submittable.com/submit" rel="noopener" target="_blank">Inlandia: A Literary Journey</a> </strong>/ Year-Round / Fiction, Poetry, Nonfiction, Images</p>
+<p><strong><a href="https://ironhorse.submittable.com/submit" rel="noopener noreferrer" target="_blank">Iron Horse Literary Review</a></strong> / Deadline: September 23, 2018; October 5 – November 28, 2018 / Fiction, Nonfiction, Poetry / $3</p>
+<p><strong><a href="https://www.jarflymagazine.com/submit.html" rel="noopener" target="_blank">Jarfly Magazine</a></strong><i> </i>/ Year-Round / Poetry, Reviews, Art, Poetry-Based Essays and Pedagogy</p>
+<p><strong><a href="https://jmww.submittable.com/Submit" rel="noopener noreferrer" target="_blank">jmww </a></strong>/ Year-Round / Fiction, Poetry, Nonfiction, Flash Fiction</p>
+<p><strong><a href="https://www.josephinequarterly.com/submit/" rel="noopener noreferrer" target="_blank">Josephine Quarterly</a></strong> / Now / Poetry, Art</p>
+<a href="https://joylandmagazine.submittable.com/submit" rel="noopener" target="_blank"><strong>Joyland</strong></a>
+<a href="http://www.juxtaprosemagazine.org/submit/" rel="noopener" target="_blank"><strong>JuxtaProse</strong></a>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://juxtaprosemagazine.submittable.com/submit/101262/2018-juxtaprose-nonfiction-prize&amp;source=gmail&amp;ust=1527046702093000&amp;usg=AFQjCNF_5mRFD_5ResAcV4VxCh-H81INew" href="https://juxtaprosemagazine.submittable.com/submit/101262/2018-juxtaprose-nonfiction-prize" rel="noopener noreferrer" target="_blank">JuxtaProse Fiction and Poetry Prizes</a> </strong>/ Deadline: <span class="aBn" data-term="goog_2059810970" tabindex="0"><span class="aQJ">November 30, 2018</span></span> / Fiction, Poetry / $15 / Prize: $1,000 + Publication</p>
+<a href="http://www.kallistogaiapress.org/" rel="noopener" target="_blank"><strong>Kallisto Gaia Press</strong> <strong>– The Ocotillo Review</strong></a>
+<a href="http://www.kallistogaiapress.org/" rel="noopener" target="_blank"><strong>Kallisto Gaia Press</strong> <strong>– The Ocotillo Review</strong></a>
+<p><strong><a href="https://kartikareview.submittable.com/submit" rel="noopener noreferrer" target="_blank">Kartika Review</a></strong> / Now / Fiction, Poetry and Nonfiction from Asian Pacific Islander American Writers</p>
+<p><strong><a href="https://kinliteraryjournal.com/submit-1/" rel="noopener" target="_blank">K’in</a> </strong>/ June 1 – September 30, 2018 / Fiction, Nonfiction, Poetry</p>
+<p><strong><a href="https://kwelijournal.submittable.com/submit" rel="noopener noreferrer" target="_blank">Kweli</a></strong> / Deadline: May 30, 2019 / Fiction, Nonfiction, Poetry, Multimedia</p>
+<p><strong><a href="http://www.lavrev.net/p/submit.html" rel="noopener noreferrer" target="_blank">Lavender Review</a></strong> / Year-Round / Poetry and Art by Lesbians</p>
+<a href="http://www.leopardskinandlimes.com/submit/" rel="noopener" target="_blank"><strong>Leopardskin &amp; Limes</strong></a>
+<p><b></b><strong><a href="http://www.levelerpoetry.com/submissions/" rel="noopener noreferrer" target="_blank">LEVELER</a></strong> / Year-Round / Poetry</p>
+<p><strong><a href="https://lindenavenue.submittable.com/submit" rel="noopener noreferrer" target="_blank">Linden Avenue Literary Journal</a></strong> / Now / Poetry, Fiction, Flash Fiction, Nonfiction, Art</p>
+<p><strong><a href="http://www.littletell.org/submit/" rel="noopener noreferrer" target="_blank">littletell</a></strong> / Year-Round / Poetry, Prose, Audio, Visual</p>
+<p><strong><a href="http://www.longdaypress.com/submissions/" rel="noopener" target="_blank">Long Day Press</a></strong> / Now / Prose</p>
+<a href="http://longlongjournal.com/subs" rel="noopener" target="_blank"><strong>Long Long Journal</strong></a>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.lostin.com/guidelines/&amp;source=gmail&amp;ust=1512598808915000&amp;usg=AFQjCNF2epwYB7vUaKBK1t3826DWX5nZNA" href="https://www.lostin.com/guidelines/" rel="noopener" target="_blank">LOST iN</a></strong> / Year-Round / Place-Based Fiction</p>
+<p><strong><a href="http://www.lunalunamagazine.com/join-the-coven/" rel="noopener noreferrer" target="_blank">Luna Luna</a></strong> / Deadline: September 30, 2018 / Fiction, Nonfiction, Spells, Reviews, Interviews, Art</p>
+<p><strong><a href="http://lunchticket.org/about/submission-guidelines/" rel="noopener noreferrer" target="_blank">Lunch Ticket</a></strong> / Deadline: October 31, 2018 / Fiction, Poetry, Nonfiction, Flash Prose, YA, Translations, Bilingual, Art</p>
+<p><strong><a href="https://mdash-ahb.org/about-2/submit/" rel="noopener noreferrer" target="_blank">M–DASH</a> </strong>/ November 1 – 30, 2018 / Translations of Poetry and Prose, Essays on Translation</p>
+<p><strong><a href="http://www.mantrareview.com/submit/" rel="noopener" target="_blank">Mantra Review</a></strong> / Year-Round / Poetry</p>
+<p><strong><a href="http://themanygenderedmothers.blogspot.ca/2017/01/s-u-b-m-i-s-s-i-o-n-s.html" rel="noopener" target="_blank">many gendered mothers</a> </strong>/ Now / Essays by Writers on the Women, Femme, Trans, and Non-Binary Writers Who Have Influenced Them</p>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://themapisnot.com/issue-x-extremes-preview&amp;source=gmail&amp;ust=1535332955017000&amp;usg=AFQjCNGDuumjst9U9tCMHX8WTIJrvlR4EA" href="http://themapisnot.com/issue-x-extremes-preview" rel="noopener" target="_blank">The Map is Not the Territory — Issue X – Extremes</a> </strong>/ Deadline: October 1, 2018 / All Genres, Music and Art Responding to Maps</p>
+<p><strong><a href="https://aaww.submittable.com/submit" rel="noopener noreferrer" target="_blank">The Margins</a></strong> / Now / Poetry and Nonfiction from Asian American Writers</p>
+<p><strong><a href="http://www.masqueandspectacle.com/">Masque &amp; Spectacle</a></strong> / Open: <span class="aBn" data-term="goog_989103238" tabindex="0"><span class="aQJ">November 1, 2018 </span></span>/ Fiction, Nonfiction, Poetry, Drama, Reviews</p>
+<p><strong><a href="https://themastersreview.submittable.com/submit" rel="noopener noreferrer" target="_blank">The Master’s Review – New Voices</a> </strong>/ Year-Round / Fiction</p>
+<p><strong><a href="https://themastersreview.submittable.com/submit" rel="noopener noreferrer" target="_blank">The Master’s Review – Flash Fiction Contest</a> </strong>/ Deadline: September 30, 2018 / Stories Under 1,000 Words / $20 / Prize: 3,000 + Publication</p>
+<p><strong><a href="http://www.matadorreview.com/submissions" rel="noopener noreferrer" target="_blank">Matador Review</a></strong> / Year-Round / Fiction, Nonfiction, Flash Fiction, Poetry, Visual Art</p>
+<p><strong><a href="https://mattermonthly.com/contact/" rel="noopener noreferrer" target="_blank">Matter Monthly</a></strong> / Year-Round / Poetry, Prose</p>
+<p><strong><a href="https://maudlinhouse.submittable.com/submit" rel="noopener noreferrer" target="_blank">Maudlin House</a></strong> / Now / Fiction, Flash Fiction, Poetry</p>
+<p><strong><a href="https://themeadow.submittable.com/submit" rel="noopener noreferrer" target="_blank">The Meadow</a></strong> / Deadline: February 1, 2019 / Poetry, Fiction, Nonfiction</p>
+<a href="https://memoirmixtapes.com/vol-2-submissions/" rel="noopener" target="_blank"><strong>Memoir Mixtapes</strong></a>
+<a href="https://memoirmixtapes.com/vol-2-submissions/" rel="noopener" target="_blank"><strong>Memoir Mixtapes — Back to School</strong></a>
+<a href="https://meridian.submittable.com/submit" rel="noopener" target="_blank"><strong>Meridian</strong></a>
+<a href="https://www.instagram.com/meshes.journal/" rel="noopener" target="_blank"><strong>Meshes Journal</strong></a>
+<p><strong><a href="http://magazine.metaphorosis.com/guidelines/" rel="noopener" target="_blank">Metaphorosis Magazine</a> </strong>/ Now / Science Fiction, Fantasy</p>
+<p><strong><a href="https://metatron.submittable.com/submit" rel="noopener noreferrer" target="_blank">Metatron – ÄLPHÄ</a> </strong>/ Year-Round / Fiction, Poetry</p>
+<p><strong><a href="http://minorliteratures.com/submit/" rel="noopener noreferrer" target="_blank">Minor Literatures</a></strong> / Year-Round / Cross-Genre, Essays, Reviews, Interviews</p>
+<p><strong><a href="http://mizna.org/articles/about/36.shtml" rel="noopener noreferrer" target="_blank">Mizna</a> </strong>/ Now / Fiction, Poetry</p>
+<p><strong><a href="https://mokomagazine.submittable.com/submit" rel="noopener noreferrer" target="_blank">Moko: Caribbean Arts and Letters</a></strong> / Now / Poetry, Fiction, Essays, Reviews, Art, Videos</p>
+<p><strong><a href="https://mooncitypress.submittable.com/submit" rel="noopener noreferrer" target="_blank">Moon City Review</a></strong> / Now / Poetry, Fiction, Nonfiction, Translations, Graphic Narrative, Reviews</p>
+<a href="https://moonparkreview.com/submission-guidelines/" rel="noopener" target="_blank"><strong>MoonPark Review</strong></a>
+<p><strong><a href="https://mortarmagazine.submittable.com/submit" rel="noopener noreferrer" target="_blank">Mortar</a></strong> / Now / Poetry, Fiction, Flash Fiction, Nonfiction</p>
+<p><strong><a href="http://www.mosslit.com/vol02/issue05.html#CallForPapers" rel="noopener noreferrer" target="_blank">Moss </a></strong>/ Now / Fiction and Nonfiction from the Pacific Northwest</p>
+<a href="https://themuseumofamericana.net/submissions/" rel="noopener" target="_blank"><strong>the museum of americana</strong></a>
+<p><strong><a href="https://muzzlemagazine.submittable.com/submit" rel="noopener noreferrer" target="_blank">Muzzle Magazine</a></strong> / Now / Poetry</p>
+<p><strong><a href="http://ndrmag.org/submissions/" rel="noopener noreferrer" target="_blank">New Delta Review</a></strong> / Now / Fiction, Poetry, Nonfiction, Reviews, Interviews, Hybrid, Art, Digital Media / $3</p>
+<p><strong><a href="http://ndrmag.org/uncategorized/2018/09/2018-19-ryan-r-gibbs-award-for-flash-fiction/">New Delta Review — Ryan R. Gibbs Award in Flash Fiction</a></strong> / September 12 – October 17, 2018 / Flash Fiction / $5 / Prize: $400 + Publication / Judge: Colin Winnette</p>
+<p><strong><a href="https://www.ohio.edu/nor/submit.htm" rel="noopener noreferrer" target="_blank">New Ohio Review</a></strong> / September 15 – December 15, 2018 / Fiction, Nonfiction, Poetry</p>
+<p><strong><a href="https://neworleansreview.submittable.com/Submit" rel="noopener noreferrer" target="_blank">New Orleans Review – Online</a> </strong>/ Now / Poetry, Fiction, Nonfiction, Reviews / $3</p>
+<p><strong><a href="http://newpoetryintranslation.com/submissions.html" rel="noopener noreferrer" target="_blank">New Poetry in Translation</a></strong> / Year-Round / Poetry in Translation</p>
+<p><strong><a href="http://newnewsinews.com/about">new sinews</a></strong> / Year-Round / Poetry, Fiction</p>
+<p><strong><a href="https://newsouth.submittable.com/submit" rel="noopener noreferrer" target="_blank">New South – Micro Prose (Online)</a></strong> / Deadline: December 31, 2018 / Prose Under 500 Words</p>
+<a href="http://www.newestyork.co/submit/" rel="noopener" target="_blank"><strong>Newest York</strong></a>
+<p><strong><a href="https://newfound.submittable.com/submit" rel="noopener noreferrer" target="_blank">Newfound</a></strong> / Deadline: May 15, 2019 / Fiction, Flash Fiction, Poetry, Nonfiction, Reviews, Translation, Art</p>
+<a href="https://nightmusicjournal.com/submissions/" rel="noopener" target="_blank"><strong>Night Music Journal</strong></a>
+<a href="https://ninthletteronline.submittable.com/submit" rel="noopener noreferrer" target="_blank"><strong>Ninth Letter</strong></a>
+<p><strong><a href="http://utulsa.edu/nimrod/submissions.html" rel="noopener noreferrer" target="_blank">Nimrod International Journal of Prose and Poetry</a></strong> / Deadline: November 30, 2018 / Fiction, Poetry, Nonfiction</p>
+<p><strong><a href="http://nthandareview.com/submissions/" rel="noopener" target="_blank">Nthanda Review</a> </strong>/ Year-Round / Fiction, Nonfiction, Poetry</p>
+<a href="https://nunum.submittable.com/submit" rel="noopener" target="_blank"><strong>NUNUM</strong></a>
+<p><strong><a href="https://occulum.net/submit/" rel="noopener" target="_blank">Occulum</a></strong> / Deadline: September 15, 2018 / Prose, Poetry</p>
+<p><strong><a href="http://www.theoperatingsystem.org/submissions/" rel="noopener" target="_blank">The Operating System</a></strong> / Now / Field Notes, Conversations</p>
+<p><strong><a href="http://opossumlit.com/submissions/" rel="noopener" target="_blank">Opossum</a></strong> / Now / Fiction, Nonfiction, Flash, and Poetry Related to Music</p>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://orsonspublishing.com/about-orsons-review/&amp;source=gmail&amp;ust=1503417407558000&amp;usg=AFQjCNFdw0jfW_1aVFRlJYvVlycOnZAk6A" href="http://orsonspublishing.com/orsons-review-submission-guidelines/" rel="noopener" target="_blank">Orson’s Review</a></strong> / Year-Round / Fiction, Nonfiction, Poetry, Art</p>
+<a href="http://www.otherpeoplesflowers.com/" rel="noopener" target="_blank"><strong>Other People’s Flowers – A Podcast for Rejected Stories, Essays, and Poems</strong></a>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://outcastlit.us/&amp;source=gmail&amp;ust=1527048440227000&amp;usg=AFQjCNEL4jYWcrcUHFz0PrVucpsCZ87xiQ" href="http://outcastlit.us/submit/" rel="noopener" target="_blank">OUT/CAST</a> </strong>/ Year-Round / Flash Fiction &amp; Nonfiction, Poetry, Art</p>
+<p><strong><a href="http://www.oxidantengine.com/submissions" rel="noopener noreferrer" target="_blank">Oxidant | Engine</a></strong> / Year-Round / Poetry</p>
+<p><strong><a href="https://pacificaliteraryreview.submittable.com/submit" rel="noopener noreferrer" target="_blank">Pacifica Literary Review</a></strong> / Now<span class="aBn" data-term="goog_875149088" tabindex="0"><span class="aQJ"> </span></span>/ Poetry, Fiction, Nonfiction, Photography, Art</p>
+<p><strong><a href="https://pacificaliteraryreview.submittable.com/submit" rel="noopener noreferrer" target="_blank">Pacifica Literary Review — Short Fiction and Poetry Contests </a></strong>/ Deadline: December 7, 2018<span class="aBn" data-term="goog_875149088" tabindex="0"><span class="aQJ"> </span></span>/ Fiction, Poetry / $15 / Prize: $500 + Publication / Judges: Lidia Yuknavitch, Michael Bazzett</p>
+<p><strong><a href="https://pbq.submittable.com/submit" rel="noopener noreferrer" target="_blank">Painted Bride Quarterly</a></strong> / Year-Round / Nonfiction, Fiction, Poetry / $3</p>
+<p><strong><a href="http://www.paperdarts.org/submit/">Paper Darts</a> </strong>/ Now / Fiction, Nonfiction, Art</p>
+<p><b></b><strong><a href="http://passagesnorth.com/submissions/" rel="noopener noreferrer" target="_blank">Passages North</a> </strong>/ Now / Fiction, Nonfiction, Poetry, Hybrid, Writers on Writing</p>
+<a href="https://www.marginalcomets.com/permpress" rel="noopener" target="_blank"><strong>PERM PRESS</strong></a>
+<p><strong><a href="https://permafrostmag.submittable.com/submit" rel="noopener noreferrer" target="_blank">Permafrost Magazine</a></strong> / Now / Fiction, Poetry, Nonfiction, Hybrid, Art / $3</p>
+<a href="http://petrichormag.com/submit/" rel="noopener" target="_blank"><strong>petrichor — Renewal</strong></a>
+<p><strong><a href="https://phoebe.submittable.com/submit" rel="noopener noreferrer" target="_blank">Phoebe</a></strong> / Deadline: October 12, 2018 / Poetry, Nonfiction, Fiction, Art / $3</p>
+<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://pigeonpagesnyc.com/flash-contest/&amp;source=gmail&amp;ust=1527274886563000&amp;usg=AFQjCNH5AIRXJJh9kKofe0RpNYswqBglYQ" href="https://pigeonpagesnyc.com/flash-contest/" rel="noopener" target="_blank"><strong>Pigeon Pages</strong></a>
+<p><strong><a href="https://pinchjournal.submittable.com/submit" rel="noopener noreferrer" target="_blank">The Pinch</a></strong> / Year-Round / Fiction, Nonfiction, Poetry, Art / $3</p>
+<a href="https://pitheadchapel.com/submission-guidelines/" rel="noopener" target="_blank"><strong>Pithead Chapel</strong></a>
+<a href="https://pitheadchapel.com/submission-guidelines/" rel="noopener" target="_blank"><strong>Pithead Chapel — The Larry Brown Short Story Award </strong></a>
+<a href="http://www.poetrynw.org/about/submissions-info/" rel="noopener" target="_blank"><strong>Poetry Northwest</strong></a>
+<a href="http://www.poetsreadingthenews.com/"><strong>Poets Reading the News</strong></a>
+<a href="http://portlandreview.org/submit/" rel="noopener noreferrer" target="_blank"><strong>Portland Review — Unchartable: On Environmental Unknowns</strong></a>
+<p><strong><a href="https://positjournal.com/guidelines/" rel="noopener noreferrer" target="_blank">Posit </a></strong>/ September 15, 2018 – April 15, 2019 / Fiction, Poetry, Visual Art, Film and Animation</p>
+<p><strong><a href="https://psychopompmagazine.submittable.com/submit" rel="noopener noreferrer" target="_blank">Psychopomp </a></strong>/ Now / Fiction / $3</p>
+<p><strong><a href="https://punchdrunkpress.com/submissions/" rel="noopener" target="_blank">Punch Drunk Press</a> </strong>/ Now / Poetry, Fiction, Art</p>
+<p><strong><a href="http://queenmobs.com/submissions/" rel="noopener noreferrer" target="_blank">Queen Mob’s Tea House</a></strong> / Now / Poetry, Art, Fiction, Essays</p>
+<p><strong><a href="http://quidditylit.com/?page_id=9" rel="noopener noreferrer" target="_blank">Quiddity</a></strong> / Deadline: December 15, 2018 / Poetry, Prose / $3</p>
+<a href="https://rabidoak.com/submissions/" rel="noopener" target="_blank"><strong>Rabid Oak</strong></a>
+<p><strong><a href="http://www.radarpoetry.com/guidelines" rel="noopener" target="_blank">Radar Poetry</a> </strong>/ October 1, 2018 – June 30, 2019 / Poetry</p>
+<a href="https://www.ragqueenperiodical.com/submissions" rel="noopener" target="_blank"><strong>Rag Queen Periodical</strong></a>
+<p><strong><a href="http://www.raspamagazine.com/submissions/" rel="noopener noreferrer" target="_blank">Raspa Magazine</a></strong> / Deadline: September 15, 2018 / Fiction, Essays, and Poetry by Queer Latinos</p>
+<p><strong><a href="http://therealstory.org/submit/" rel="noopener noreferrer" target="_blank">The Real Story</a> </strong>/ Now / Nonfiction, Reviews</p>
+<p><strong><a href="http://realitybeach.org/submit/" rel="noopener noreferrer" target="_blank">Reality Beach</a></strong> / Now / Poetry, Video</p>
+<p><strong><a href="http://www.realityhands.com/submissions/" rel="noopener noreferrer" target="_blank">Reality Hands</a></strong> / Now / Short Stories, Poetry</p>
+<a href="https://redhenpress.submittable.com/submit" rel="noopener" target="_blank"><strong>Red Hen Press – American Muslims: An Anthology of Contemporary Writing</strong></a>
+<a href="https://redivider.submittable.com/submit" rel="noopener noreferrer" target="_blank"><strong>Redivider</strong> </a>
+<p><b></b><strong><a href="https://requitedjournal.submittable.com/submit" rel="noopener noreferrer" target="_blank">Requited </a></strong>/ Now / Poetry, Fiction, Nonfiction, Performance Text, Visual, Video</p>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.reverberationsmag.com/submit&amp;source=gmail&amp;ust=1519962108787000&amp;usg=AFQjCNFpWpgH62Zbr-P3RKZgeR2VlPVXvA" href="https://www.reverberationsmag.com/submit" rel="noopener" target="_blank">Reverberations Mag</a></strong> / Year-Round / Personal Essays Responding to Art</p>
+<a href="http://www.riseupreview.com/How-to-Submit.html" rel="noopener" target="_blank"><strong>Rise Up Review</strong></a>
+<p><b></b><strong><a href="http://www.riverstyx.org/submit/general-submissions/" rel="noopener noreferrer" target="_blank">River Styx</a></strong> / Deadline: December 31, 2018 / Fiction, Poetry, Nonfiction / $2.50</p>
+<p><strong><a href="http://rivetjournal.com/guidelines/" rel="noopener" target="_blank">Rivet</a></strong> / Now / Fiction, Poetry, Nonfiction, Hybrid, Translations, Reviews, Interviews, Art</p>
+<p><strong><a href="http://www.rivulet.net/submit/" rel="noopener noreferrer" target="_blank">rivulet</a> </strong>/ Year-Round / Essays, Visuals, Reviews, Translations, Poetry</p>
+<a href="https://www.robocup-press.com/hence-tirade.html" rel="noopener" target="_blank"><strong>Robocup Press – hence, tirade</strong></a>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://rougarou.submittable.com/submit&amp;source=gmail&amp;ust=1486010887587000&amp;usg=AFQjCNEbwdMdgCnyAwDQTzgOcssP1Mv3EA" href="https://rougarou.submittable.com/submit" rel="noopener noreferrer" target="_blank">Rougarou</a></strong> / Now / Fiction, Poetry, Nonfiction, Art</p>
+<p><strong><a href="http://www.therushmag.com/submit/" rel="noopener" target="_blank">The Rush</a></strong> / Deadline: November 15, 2018 / Fiction, Poetry, Nonfiction, Art</p>
+<p><strong><a href="http://www.sawpalm.org/submit.html" rel="noopener noreferrer" target="_blank">Saw Palm: Florida Literature and Art</a></strong> / Deadline: October 1, 2018 / Poetry, Fiction, Nonfiction, Flash Fiction, Art, Photography, Comics</p>
+<p><strong><a href="https://scabmag.wordpress.com/submissions/" rel="noopener noreferrer" target="_blank">SCAB</a></strong> / Year-Round / Prose, Poetry, Art</p>
+<a href="https://screendoorreview.submittable.com/submit" rel="noopener" target="_blank"><strong>Screen Door Review</strong></a>
+<p><strong><a href="https://seattlereview.submittable.com/Submit" rel="noopener" target="_blank">Seattle Review</a></strong> / <span class="aBn" data-term="goog_866925883" tabindex="0"><span class="aQJ">Deadline: December 1, 2018</span></span> /  Essays and Fiction over 40 pages, Poems over 10 Pages</p>
+<a href="http://www.hws.edu/senecareview/submissions.aspx" rel="noopener noreferrer" target="_blank"><strong>Seneca Review</strong></a>
+<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.shirleymag.com/about/&amp;source=gmail&amp;ust=1535589896056000&amp;usg=AFQjCNGtOK-9b3cDSq-o9BxfZnizBlp_Hw" href="http://www.shirleymag.com/about/" rel="noopener noreferrer" target="_blank"><strong>hirley Magazine</strong></a>
+<p><strong><a href="http://www.sidekicklit.com/submit/" rel="noopener noreferrer" target="_blank">SiDEKiCK</a></strong> / Year-Round / Poetry, Hybrid</p>
+<p><strong><a href="https://siderealmagazine.com/submissions/" rel="noopener noreferrer" target="_blank">Sidereal Magazine</a></strong> / November 1, 2018 – March 1, 2019 / Poetry, Essays</p>
+<p><strong><a href="https://sinisterwisdom.submittable.com/submit" rel="noopener noreferrer" target="_blank">Sinister Wisdom</a></strong> / Now / Poems, Stories, Essays, and Art by Lesbians</p>
+<p><strong><a href="https://sinisterwisdom.submittable.com/submit" rel="noopener noreferrer" target="_blank">Sinister Wisdom — The Lesbian Herstory Archives 45th Anniversary </a></strong>/ Deadline: December 30, 2018 / Poems, Stories, Essays, Art, Zines, Comics, Interviews, Oral Histories and Hybrid Work by Lesbians</p>
+<p><strong><a href="http://calamaripress.com/submit.htm" rel="noopener noreferrer" target="_blank">Sleepingfish</a> </strong>/ Now / Music, Audio Work</p>
+<p><strong><a href="http://www.smokelong.com/submissions/guidelines/" rel="noopener noreferrer" target="_blank">SmokeLong Quarterly</a></strong> / Year-Round / Flash Fiction (English, French, German and by Children), Artwork</p>
+<p><strong><a href="https://sotospeak.submittable.com/Submit" rel="noopener noreferrer" target="_blank">So to Speak</a></strong> / Now / Fiction, Nonfiction, Poetry, Art</p>
+<p><strong><a href="http://solsticelitmag.org/submit/" rel="noopener noreferrer" target="_blank">Solstice</a></strong> / Now / Fiction, Nonfiction, Poetry / $3</p>
+<a href="https://www.sororitymansion.org/about/" rel="noopener" target="_blank"><strong>Sorority Mansion</strong></a>
+<p><b></b><strong><a href="https://www.southeastreview.org/general-submissions" rel="noopener noreferrer" target="_blank">The Southeast Review</a></strong> / Year-Round / Fiction, Poetry, Nonfiction / $3</p>
+<a href="https://thespectacle.submittable.com/submit" rel="noopener noreferrer" target="_blank"><strong>The Spectacle – The Revue Blog </strong></a>
+<a href="http://www.splitlipmagazine.com/#!submit/con8" rel="noopener noreferrer" target="_blank"><strong>Split Lip Magazine</strong></a>
+<p><strong><a href="https://splitlip.submittable.com/submit" rel="noopener" target="_blank">Split Lip x Indiana Review — Collaborative Voices Folio</a> </strong>/ Deadline: October 31, 2018 / Collaborative Poetry, Fiction and Nonfiction; Solo Work That Seriously Considers the Theme</p>
+<a href="http://www.splitlipmagazine.com/#!submit/con8" rel="noopener noreferrer" target="_blank"><strong>Split Lip Poetry Contest</strong></a>
+<a href="https://squalorly.submittable.com/submit" rel="noopener noreferrer" target="_blank"><strong>Squalorly</strong> </a>
+<p><strong><a href="http://www.thestayproject.us/" rel="noopener noreferrer" target="_blank">The Stay Project</a></strong> / Now / Responses to the Political Present</p>
+<p><strong><a href="https://stormcellarquarterly.com/submit/" rel="noopener noreferrer" target="_blank">Storm Cellar</a> </strong>/ Now / Nonfiction, Flash, Fiction, Poetry, Images</p>
+<a href="https://sssuuubbbllleeettt.info/submit" rel="noopener" target="_blank"><strong>sublet press</strong></a>
+<p><strong><a href="https://superstitionreview.submittable.com/submit" rel="noopener noreferrer" target="_blank">Superstition Review</a></strong> / Deadline: November 5, 2018 / Fiction, Nonfiction, Poetry, Art</p>
+<p><strong><a href="https://susan.submittable.com/submit" rel="noopener noreferrer" target="_blank">SUSAN / The Journal</a></strong> / Now / Poetry, Flash Fiction</p>
+<a href="http://www.arteidolia.com/swifts-and-slows/" rel="noopener" target="_blank"><strong>swifts &amp; slows</strong></a>
+<a href="http://smallaxe.net/sxsalon/submissions" rel="noopener" target="_blank"><strong>sx salon</strong></a>
+<p><strong><a href="http://tagvverk.info/" rel="noopener noreferrer" target="_blank">TAGVVERK</a> </strong>/ Year-Round / Poetry, Fiction, Art</p>
+<p><strong><a href="https://www.thetalkingbooks.com/submit" rel="noopener noreferrer" target="_blank">The Talking Book</a></strong> / Year-Round / Nonfiction, Fiction, Poetry, Comics, Audio</p>
+<p><strong><a href="https://tayoliterarymag.submittable.com/submit" rel="noopener noreferrer" target="_blank">TAYO Literary Magazine</a></strong> / Now / Visual Art, Reviews</p>
+<p><strong><a href="http://themapisnot.com/submissions/" rel="noopener noreferrer" target="_blank">Territory – Extremes</a></strong> / Deadline: October 1, 2018 / All Genres</p>
+<p><strong><a href="http://threadcountmag.com/submissions/" rel="noopener noreferrer" target="_blank">Threadcount Magazine</a></strong> / Year-Round / Hybrid, Fiction, Nonfiction, Poetry</p>
+<p><strong><a href="http://www.thrushpoetryjournal.com/submissions.html" rel="noopener" target="_blank">Thrush </a></strong>/ Year-Round / Poetry</p>
+<p><strong><a href="https://tinderboxpoetryjournal.submittable.com/submit" rel="noopener noreferrer" target="_blank">Tinderbox Poetry Journal</a></strong> / Open: November 1, 2018 / Poetry / $3 (Free in December)</p>
+<a href="http://www.trackfourjournal.com/submissions.html" rel="noopener" target="_blank"><strong>TRACK//FOUR</strong></a>
+<a href="https://trampset.org/submissions-6e83932b0985" rel="noopener" target="_blank"><strong>trampset</strong></a>
+<p><b></b><strong><a href="https://transition.submittable.com/submit" rel="noopener noreferrer" target="_blank">Transition </a></strong>/ Now / Nonfiction, Fiction, Poetry, and Art about Africa and the African Diaspora</p>
+<a href="https://www.canopycanopycanopy.com/contents/announcing-triple-canopys-2018-call-for-proposals"><strong>Triple Canopy</strong></a>
+<a href="https://tripwirejournal.com/submissions/" rel="noopener" target="_blank"><strong>TRIPWIRE</strong></a>
+<p><strong><a href="http://tropmag.com/about-us/" rel="noopener noreferrer" target="_blank">Trop</a></strong> / Now / Humor, Essays, Short Fiction, <a href="http://tropmag.com/category/sleeper-celluloid/">Fake Reviews</a></p>
+<p><strong><a href="https://twolines.submittable.com/submit" rel="noopener noreferrer" target="_blank">Two Lines</a></strong> / Now / Translations of Poetry, Fiction, and Essays</p>
+<p><strong><a href="http://unbrokenjournal.com/submit" rel="noopener noreferrer" target="_blank">Unbroken Journal</a></strong> / Now / Prose Poems, Poetic Prose</p>
+<p><strong><a href="http://unbrokenjournal.com/submit" rel="noopener noreferrer" target="_blank">Unlost Journal</a></strong> / Now / Found Writing, Art</p>
+<p><strong><a href="http://unclekenpresents.tumblr.com/ABOUT" rel="noopener" target="_blank">Uncle Ken Presents</a></strong> / Year-Round / Poetry, Fiction</p>
+<p><strong><a href="http://www.greenlindenpress.com/submit" rel="noopener noreferrer" target="_blank">Under a Warm Green Linden</a></strong> / Year-Round / Poetry / $2.50 (Free for a Single Poem)</p>
+<a href="http://underwaternewyork.com/submit/" rel="noopener" target="_blank"><strong>Underwater New York</strong></a>
+<p><strong><a href="https://unionstation.submittable.com/Submit" rel="noopener noreferrer" target="_blank">Union Station Magazine</a> </strong>/ Year-Round / Poetry, Fiction, Nonfiction, Photography</p>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://Upnorthlit.org/submit&amp;source=gmail&amp;ust=1527274886552000&amp;usg=AFQjCNEVuQBsFr-wM68KlHrtypB5WfjYhw" href="http://upnorthlit.org/submit" rel="noopener" target="_blank">Up North Lit</a> </strong> / Year-Round / Poetry, Fiction, Nonfiction, Photography, Art / $3 (After January 1, 2019)</p>
+<p><strong><a href="https://ursusamericanuslit.squarespace.com/submit/" rel="noopener noreferrer" target="_blank">Ursus Americanus Press – Landfill</a> </strong>/ Year-Round / Poetry</p>
+<p><strong><a href="https://usforpresident.org/" rel="noopener noreferrer" target="_blank">Us For President</a></strong>  / Now / Poetry, Prose, Art, Spoken Word</p>
+<p><strong><a href="https://utterancejournal.com/" rel="noopener noreferrer" target="_blank">Utterance</a></strong> / Now / Poetry, Nonfiction, and Hybrid Work by People Identifying as/alongside Female, Trans, or Non-Binary</p>
+<p><strong><a href="https://vagabondcityjournal.wordpress.com/submission-guidlines/" rel="noopener noreferrer" target="_blank">Vagabond City</a></strong> / Year-Round / Poetry, Nonfiction</p>
+<a href="http://blacksunlit.com/2018/08/open-call-for-submissions-vestiges_04-aphasia/"><strong>Vestiges</strong></a>
+<a href="http://www.vidaweb.org/submissions/" rel="noopener noreferrer" target="_blank"><strong>VIDA: Women in the Literary Arts</strong></a>
+<p><strong><a href="http://virgamagazine.com/submit/" rel="noopener noreferrer" target="_blank">Virga</a></strong> / Year-Round / Poetry, Hybrid</p>
+<p><strong><a href="http://wandererpoetry.com/submit/" rel="noopener" target="_blank">The Wanderer</a></strong> / Now / Poetry in English and Spanish, Reviews</p>
+<p><b></b><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=http://www.washingtonsquarereview.com/submit/&amp;source=gmail&amp;ust=1475766798186000&amp;usg=AFQjCNH2wLRBucysDoywaeh9Wh1q5rQ8Ug" href="http://www.washingtonsquarereview.com/submit/" rel="noopener noreferrer" target="_blank">Washington Square Review</a></strong> / Deadline: October 15, 2018 / Poetry, Fiction, Translations</p>
+<p><strong><a href="https://waxwing.submittable.com/submit" rel="noopener" target="_blank">Waxwing</a></strong> / Now / Poetry, Fiction, Nonfiction, Translations (Open Year-Round), Art</p>
+<p><strong><a href="http://www.westernhumanitiesreview.com/submissions/" rel="noopener noreferrer" target="_blank">Western Humanities Review</a></strong> / Year-Round / Poetry, Fiction, Nonfiction, Hybrid / $2</p>
+<a href="http://www.whaleroadreview.com/submission-guidelines/" rel="noopener noreferrer" target="_blank"><strong>Whale Road Review</strong></a>
+<p><strong><a href="https://whatarebirdsjournal.com/contact/" rel="noopener noreferrer" target="_blank">What Are Birds?</a></strong></p>
+<p><strong><a href="https://whereistheriver.blogspot.ca/2017/09/submissions-where-is-river.html" rel="noopener" target="_blank">where is the river :: a poetry experiment</a></strong> / Now / Poetry</p>
+<p><strong><a href="http://whiteelephantmagazine.com/submissions/" rel="noopener noreferrer" target="_blank">The White Elephant</a></strong> / Year-Round / Fiction</p>
+<p><strong><a href="http://readwildness.com/submit" rel="noopener noreferrer" target="_blank">Wildness</a></strong> / Year-Round / Poetry, Fiction, Nonfiction</p>
+<p><strong><a href="http://willowspringsmagazine.org/submit/" rel="noopener noreferrer" target="_blank">Willow Springs</a></strong> / Deadline: May 31, 2019 / Fiction, Poetry, Nonfiction (Year-Round)</p>
+<a href="http://www.patient-sounds.com/submit" rel="noopener noreferrer" target="_blank"><strong>Window</strong> </a>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://wintertangerine.submittable.com/submit/120976/dispatches-from-the-stars&amp;source=gmail&amp;ust=1535407165007000&amp;usg=AFQjCNH__0kF9i2jGvT0DYp0ZojrD4fxqA" href="https://wintertangerine.submittable.com/submit/120976/dispatches-from-the-stars" rel="noopener" target="_blank"><span class="il">Winter</span> <span class="il">Tangerine</span> – Dispatches From The Stars</a></strong> / Deadline: <span class="aBn" data-term="goog_989103201" tabindex="0"><span class="aQJ">September 30, 2018</span></span> / Speculative Poetry, Prose, Visual art, and Essays by First-Generation Migrant Artists of Color</p>
+<p><strong><a href="https://wintertangerine.submittable.com/submit/71684/lineage-of-mirrors" rel="noopener noreferrer" target="_blank">Winter Tangerine – Lineage of Mirrors</a></strong> / Year-Round / Poetry from Poets of Color</p>
+<a href="https://thewiresdreammagazine.wordpress.com/submit/" rel="noopener" target="_blank"><strong>The Wire’s Dream Magazine</strong></a>
+<p><strong><a href="http://witness.blackmountaininstitute.org/submit/" rel="noopener noreferrer" target="_blank">Witness</a></strong> / Deadline: October 1, 2018 / Nonfiction / $3</p>
+<p><strong><a href="http://witness.blackmountaininstitute.org/submit/" rel="noopener noreferrer" target="_blank">Witness — Literary Awards in Fiction and Poetry </a></strong>/ Deadline: October 1, 2018 / Fiction, Poetry / $10 / Prize: $500 + Publication / Judges:Lesley Nneka Arimah, Hanif Abdurraqib</p>
+<a href="http://wohelit.com/submit/" rel="noopener" target="_blank"><strong>Wohe Lit</strong></a>
+<p><strong><a href="https://thewoventalepress.submittable.com/submit" rel="noopener" target="_blank">The Woven Tale Press</a></strong> / Year-Round / Fiction, Flash Fiction, Nonfiction, Poetry, Experimental</p>
+<a href="http://www.thewoventalepress.net/literary-competition/" rel="noopener" target="_blank"><strong>The Woven Tale Press – WTP Hamptons Poetry Competition</strong></a>
+<p><strong><a href="http://www.feministpress.org/current-call-for-papers/" rel="noopener" target="_blank">WSQ – Together Issue</a> </strong>/ Deadline: September 15, 2018 / Poetry, Fiction, Nonfiction</p>
+<p><strong><a href="https://yellshoutscream.wordpress.com/submit/" rel="noopener" target="_blank">yell/shout/scream</a></strong> / Year-Round / Poetry, Flash Fiction, Fiction and Nonfiction by Queer Writers of Color</p>
+<p><strong><a href="https://yemassee.submittable.com/submit" rel="noopener noreferrer" target="_blank">Yemassee</a></strong> / Year-Round / Fiction, Nonfiction, Poetry, Flash Nonfiction, Flash Fiction</p>
+<p><strong><a href="http://ythmjournal.org/about.html" rel="noopener" target="_blank">ythm</a></strong> / Year-Round / Audio Poetry</p>
+<p><a name="residencies"></a><strong><a href="https://www.zvonainari.hr/contact" rel="noopener noreferrer" target="_blank">ZiN Daily</a></strong> / Year-Round / Fiction, Nonfiction and Poetry in English, Croatian, Serbian, Bosnian, Montenegrin, French, German, Italian and Slovenian</p>
+<p><strong><a href="https://zone3press.submittable.com/submit" rel="noopener noreferrer" target="_blank">Zone 3</a></strong> / Deadline: April 1, 2019 / Fiction, Poetry, Nonfiction</p>
+<p><strong><a href="http://www.amscan.org/fellowships-and-grants/fellowshipsgrants-to-study-in-scandinavia/" rel="noopener noreferrer" target="_blank">American-Scandinavian Foundation</a></strong> / Deadline: November 1, 2018 / Proposals for Creative Arts Projects That Make a Stay in Scandinavia Essential / $60 / Fellowships: Up to $23,000</p>
+<p><strong><a href="http://www.amylowell.org/applicationInstruct.html" rel="noopener noreferrer" target="_blank">Amy Lowell Poetry Traveling Scholarship</a></strong> / Deadline: October 15, 2018 / Scholarship: $54,000 for a Year of Travel and Study Abroad</p>
+<p><strong><a href="http://www.thearcticcircle.org/#" rel="noopener noreferrer" target="_blank">The Arctic Circle</a></strong> / Deadline: November 15, 2018 / Artists of All Disciplines / Trip Cost: $6,300</p>
+<a href="https://awp.submittable.com/submit/45320/2018-awp-small-press-publisher-award"><strong>AWP — Small Press Publisher Award</strong></a>
+<p><strong><a href="https://balticwritingresidency.submittable.com/Submit" rel="noopener noreferrer" target="_blank">Blackacre Reserve Writing Residency</a></strong> / Now / Poetry, Fiction, Nonfiction, Playwriting / $22 / Residency: $200 + 1-2 Weeks Near Louisville, KY</p>
+<a href="http://www.bluemountaincenter.org/dates-and-guidelines/" rel="noopener noreferrer" target="_blank"><strong>Blue Mountain Center</strong><strong> Residency</strong></a>
+<a href="http://www.bluemountaincenter.org/dates-and-guidelines/" rel="noopener noreferrer" target="_blank"><strong>Blue Mountain Center</strong><strong> Residency</strong></a>
+<p><strong><a href="https://coffeehousepress.org/pages/internships" rel="noopener" target="_blank">Coffee House Press – Internships</a></strong> / September 15 – November 1, 2018 / Internship: 12-15 Hours per Week in Minneapolis, MN / Stipend: $1,200</p>
+<p><strong><a href="http://www.ellenmeloy.com/application-guidelines.html" rel="noopener noreferrer" target="_blank">Ellen Meloy Fund – Desert Writers Award</a></strong> / November 1, 2018 – January 15, 2019 / Creative Nonfiction / Award: $5,000</p>
+<p><strong><a href="http://frostplace.org/dartmouth-poet-in-residence/" rel="noopener noreferrer" target="_blank">Frost Place – Dartmouth Poet-in-Residence Award</a></strong> / October 1, 2018 – January 5, 2019 / Poetry / $28 / Residency: $2,000 + 6 Weeks at Robert Frost’s Former Home in New Hampshire</p>
+<a href="http://faculty.williams.edu/graduate-fellowships-2/graduate-fellowships/" rel="noopener noreferrer" target="_blank"><strong>Gaius Charles Bolin Dissertation and Post-MFA Fellowships</strong></a>
+<p><strong><a href="http://www.gullkistan.is/accommodation_and_fees/" rel="noopener noreferrer" target="_blank">Gullkistan Center for Creativity</a></strong> / Year-Round / Residency: 1 Month or More in Laugarvatn, Iceland / Fee: 850€+/Month</p>
+<a href="http://www.hambidge.org/application.html" rel="noopener noreferrer" target="_blank"><strong>Hambidge Creative Residency</strong></a>
+<a href="https://jackstraw.submittable.com/submit/90532/jack-straw-writers-program" rel="noopener" target="_blank"><strong>Jack Straw Writers Program</strong></a>
+<p><strong><a href="https://jentelartistresidency.submittable.com/submit" rel="noopener noreferrer" target="_blank">Jentel Artists Residency</a> </strong>/ Deadline: September 15, 2018 / $23 / Residency: 1 Month Near Bighorn Mountains, WY + $400 Stipend</p>
+<p><strong><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://careyinstitute.org/programs/nonfiction/&amp;source=gmail&amp;ust=1526698056852000&amp;usg=AFQjCNHosTF-Mn3yEvxzC4CrNouHFCewlg" href="https://careyinstitute.org/programs/nonfiction/" rel="noopener" target="_blank">Logan Nonfiction Program</a> </strong>/ Deadline: <span class="aBn" data-term="goog_1968180914" tabindex="0"><span class="aQJ">September 30, 2018</span></span> / Nonfiction / Residency: 5-10 weeks in Upstate New York</p>
+<p><strong><a href="http://www.macdowellcolony.org/apply.html" rel="noopener noreferrer" target="_blank">MacDowell Colony (Winter/Spring Residencies)</a></strong> / Deadline: September 15, 2018 / $30 / Residency: Up to 8 Weeks in Peterborough, NH</p>
+<p><strong><a href="http://mesarefuge.org/residencies/application/" rel="noopener noreferrer" target="_blank">Mesa Refuge (Spring Residencies)</a></strong> / Deadline: December 1, 2018 / $40 / Residency: 2 Weeks in Point Reyes Station, CA</p>
+<p><strong><a href="https://www.arts.gov/grants-individuals/translation-projects" rel="noopener noreferrer" target="_blank">National Endowment for the Arts Translation Fellowships</a></strong> / Deadline: December 5, 2018 / Grants: $12,500 and $25,000</p>
+<p><strong><a href="http://www.artomi.org/program.php?Writers-Omi-4" rel="noopener noreferrer" target="_blank">Omi International Arts Center – Writers Omi</a></strong> / Deadline: October 15, 2018 / Residency: 1 Week  – 2 Months in Hudson River Valley, NY</p>
+<p class="title"><strong><a href="http://www.washcoll.edu/centers/starr/fellowships/patrick-henry-writing-fellowship/index.php" rel="noopener noreferrer" target="_blank">Patrick Henry Writing Fellowship</a></strong> / Deadline: November 1, 2018 / Writers on the American Revolution / Fellowship: 9 Month Residency at Washington College + $45,000</p>
+<a href="https://pen.org/content/penrobert-j-dau-short-story-prize-emerging-writers-2000-12-writers" rel="noopener noreferrer" target="_blank"><strong>PEN/Robert J. Dau Short Story Prize for Emerging Writers</strong></a>
+<a href="https://www.pw.org/about-us/maureen_egen_writers_exchange_award" rel="noopener" target="_blank"><strong>Poets and Writers – Maureen Egen Writers Exchange Award</strong></a>
+<p><strong><a href="https://omiami.submittable.com/submit" rel="noopener noreferrer" target="_blank">O, Miami Poetry Festival</a></strong> / Deadline: October 20, 2018 / Event and Project Proposals</p>
+<p><strong><a href="http://www.sarabandebooks.org/residency" rel="noopener noreferrer" target="_blank">Sarabande Writing Residency at Bernheim Forest</a></strong> / Deadline: November 15, 2018 / Residency: Near Louisville, KY</p>
+<p><strong><a href="https://balticwritingresidency.submittable.com/Submit" rel="noopener noreferrer" target="_blank">Scotland Writing Residency</a></strong> / Deadline: September 15, 2018 / $22 / Residency: 1 Week in Brora, Scotland</p>
+<p><strong><a href="http://www.sitkacenter.org/3-0.html" rel="noopener noreferrer" target="_blank">Sitka Center for Art and Ecology</a></strong> / Open: September 3, 2018 / $15 / Residency: Up to 3.5 Months in Rural OR</p>
+<a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.bucknell.edu/stadlerfellowship&amp;source=gmail&amp;ust=1507392295170000&amp;usg=AFQjCNHLANxeu0IEZ5umCFNDOgkz4ze04g" href="https://www.bucknell.edu/stadlerfellowship" rel="noopener" target="_blank"><strong>Stadler Fellowships</strong></a>
+<p><strong><a href="http://creativewriting.stanford.edu/about-the-fellowship" rel="noopener noreferrer" target="_blank">Stegner Fellowship</a></strong> / Deadline: December 1, 2018 / Poetry, Fiction / $85 / Fellowship: 2 Years at Stanford + $26,000 Per Year</p>
+<p><strong><a href="https://balticwritingresidency.submittable.com/Submit" rel="noopener noreferrer" target="_blank">Sweden Writing Residency</a></strong> / Deadline: December 15, 2018 / $25 / Residency: $1,000 + 3-4 Weeks in a Cottage on the Baltic Sea</p>
+<p><strong><a href="http://www.ucrossfoundation.org/residency-program/apply/" rel="noopener noreferrer" target="_blank">Ucross Foundation Writer’s Residency (Spring Session)</a></strong> / Deadline: October 1, 2018 / $40 / Residency: 2-6 Weeks in Sheridan, WY</p>
+<p><strong><a href="http://www.vermontstudiocenter.org/fellowships" rel="noopener noreferrer" target="_blank">Vermont Studio Center</a></strong> / Deadline: October 1, 2018 / Poetry, Fiction, Nonfiction / Residency: 1 Month in Johnson, VT</p>
+<a href="http://www.vcca.com/main/apply" rel="noopener noreferrer" target="_blank"><strong>Virginia Center for the Arts</strong> </a>
+<a href="http://www.wintertangerine.com/internship-details" rel="noopener" target="_blank"><strong>Winter Tangerine – Internship Program</strong></a>
+<p><strong><a href="http://yaddo.org/yaddo/ApplicationGuidelines.shtml" rel="noopener noreferrer" target="_blank">Yaddo Residencies</a></strong> / Open: November 1, 2018 / $35 / Residency: 2-8 Weeks in Saratoga Springs, NY</p>
+<p><strong><a href="https://www.zvonainari.hr/residency" rel="noopener" target="_blank">ZVONA i NARI Residency</a></strong> / <span class="color_23">Now / Residency: Variable Lengths in Ližnjan, Croatia</span></p>
