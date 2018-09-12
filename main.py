@@ -40,23 +40,21 @@ section = content.findNext(href="#top")
 print 'SectionType: ', section.findNext().string.replace(':', '')
 
 section = section.findNext()
-for i in range(300):
+nextSection = True
 
+while nextSection:
     entity = selectParent(section, 'p')
+    
     if (entity != None):
-        print entity.a.attrs
+        try:
+            #detecting the end of the a section
+            if entity.a.attrs['href'] == "#top":
+                nextSection = False
+        except KeyError:
+                pass
         print 'Entry: ', entity
         
-    
     section = section.findNext('a')
-
-# for section in html.findAll(href="#top"):
-#     print section.findNext().string.replace(':', '')
-
-#     sibling = section.findNext()
-#     while(sibling != '<p><a href="#top"></p>'):
-#         print sibling.string
-#         sibling = sibling.findNext()
 
 # so we have sections are divided into anchor tags with <h3><b> within them. One word categories.
 # everything from there to the next example (or the pdf img for end) is a section of types of
