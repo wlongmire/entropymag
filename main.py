@@ -1,3 +1,5 @@
+import os
+
 from requests import get
 from requests.exceptions import RequestException
 from contextlib import closing
@@ -58,13 +60,19 @@ while (moreSections):
             except KeyError:
                 pass
             
-            print 'Entry: ', entity
-        
+            if entity.attrs.get('class') == ['dsq-widget-meta']:
+                moreSections = False
+                nextSection = False
+            else:
+                print 'Entry: ', entity
+
         if section == None:
             moreSections = False
+            nextSection = False
         elif nextSection:
             section = section.findNext('a')
 
+print "complete"
 # so we have sections are divided into anchor tags with <h3><b> within them. One word categories.
 # everything from there to the next example (or the pdf img for end) is a section of types of
 # submissions.
