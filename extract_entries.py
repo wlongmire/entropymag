@@ -1,4 +1,5 @@
 import os
+import csv
 
 from requests import get
 from requests.exceptions import RequestException
@@ -34,6 +35,14 @@ def selectParent(element, selector):
     
     return element
 
+def processEntity(entry, sectionType):
+    return {
+        'sectionType': sectionType,
+        'url': entry.a.attrs.get('href'),
+        'org_name': entry.a.string.encode('utf-8') if entry.a.string != None else None,
+        'body': entry.contents[0 if (len(entry.contents) == 1) else 1].encode('utf-8')
+    }
+
 print "Making request"
 
 raw_html = simple_get('https://entropymag.org/where-to-submit-september-october-and-november-2018/')
@@ -48,9 +57,10 @@ section = content.findNext(href="#top")
 
 print "Started processing"
 processSections = True
+entries = []
+
 while (processSections):
-    print 'SectionType: ', section.findNext().string.encode('utf-8').replace(':', '')
-    
+    sectionType = section.findNext().string.encode('utf-8').replace(':', '')
     section = section.findNext()
     processEntries = True
 
@@ -69,13 +79,21 @@ while (processSections):
                 processSections = False
                 processEntries = False
             else:
-                print 'Entry: ', entity
+                entries.append(processEntity(entity, sectionType))
 
         if section == None:
             processSections = False
             processEntries = False
         elif processEntries:
             section = section.findNext('a')
+
+print "saving to file"
+
+keys = entries[0].keys()
+with open('entries.csv', 'w') as output_file:
+    dict_writer = csv.DictWriter(output_file, keys)
+    dict_writer.writeheader()
+    dict_writer.writerows(entries)
 
 print "complete"
 # so we have sections are divided into anchor tags with <h3><b> within them. One word categories.
