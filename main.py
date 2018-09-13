@@ -36,25 +36,34 @@ raw_html = simple_get('https://entropymag.org/where-to-submit-september-october-
 html = BeautifulSoup(raw_html, 'html.parser')
 
 content = html.select_one('h3 b')
+
+
 section = content.findNext(href="#top")
-print 'SectionType: ', section.findNext().string.replace(':', '')
 
-section = section.findNext()
-nextSection = True
-
-while nextSection:
-    entity = selectParent(section, 'p')
+moreSections = True
+while (moreSections):
+    print 'SectionType: ', section.findNext().string.encode('utf-8').replace(':', '')
     
-    if (entity != None):
-        try:
-            #detecting the end of the a section
-            if entity.a.attrs['href'] == "#top":
-                nextSection = False
-        except KeyError:
-                pass
-        print 'Entry: ', entity
+    section = section.findNext()
+    nextSection = True
+
+    while nextSection:
+        entity = selectParent(section, 'p')
         
-    section = section.findNext('a')
+        if (entity != None):
+            try:
+                #detecting the end of the a section
+                if entity.a.attrs['href'] == "#top" or entity == None:
+                    nextSection = False
+            except KeyError:
+                pass
+            
+            print 'Entry: ', entity
+        
+        if section == None:
+            moreSections = False
+        elif nextSection:
+            section = section.findNext('a')
 
 # so we have sections are divided into anchor tags with <h3><b> within them. One word categories.
 # everything from there to the next example (or the pdf img for end) is a section of types of

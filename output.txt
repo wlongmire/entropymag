@@ -254,7 +254,8 @@ ul.homepage-featured-boxes .penci-fea-in h4 span span, ul.homepage-featured-boxe
     margin: 0;
 }		    </style>
     <!-- ## NXS/OG ## --><!-- ## NXSOGTAGS ## --><!-- ## NXS/OG ## -->
-</head>
+
+</head>
 
 <body class="archive category category-where-to-submit category-1847">
 <a id="close-sidebar-nav" class="header-5"><i class="fa fa-close"></i></a>
@@ -2461,7 +2462,8 @@ ul.homepage-featured-boxes .penci-fea-in h4 span span, ul.homepage-featured-boxe
     margin: 0;
 }		    </style>
     <!-- ## NXS/OG ## --><!-- ## NXSOGTAGS ## --><!-- ## NXS/OG ## -->
-</head>
+
+</head>
 
 <body class="post-template-default single single-post postid-49988 single-format-standard">
 <a id="close-sidebar-nav" class="header-5"><i class="fa fa-close"></i></a>
@@ -3850,20 +3852,35 @@ ul.homepage-featured-boxes .penci-fea-in h4 span span, ul.homepage-featured-boxe
 <p></a><em>Submitting a manuscript? For another helpful resource, try the Entropy <a href="https://entropymag.org/small-press-database/" target="_blank" rel="noopener">Small Press Database</a>, a compendium of interviews from more than 175 small presses, with links to submission guidelines, current books, and more.</em></p>
 <p><strong><a href="https://713books.com/submit/" target="_blank" rel="noopener noreferrer">7.13 Books</a> </strong>/ Deadline: November 1, 2018 / Fiction / $5</p>
 <p><strong><a href="http://alicejamesbooks.org/alice-james-award/" target="_blank" rel="noopener noreferrer">Alice James Books – Alice James Award</a></strong> / Deadline: November 1, 2018 / Poetry / $30 / Prize: $3,000 + Publication</p>
+
 <p><strong><a href="https://americanpoetryreview.submittable.com/submit" target="_blank" rel="noopener noreferrer">American Poetry Review/Honickman First Book Prize</a> </strong>/ Deadline: November 1, 2018 / Poetry / $25 / Prize: $3,000 + Publication with Copper Canyon Press / Judge: Sharon Olds</p>
+
 <p><strong><a href="https://levineprize.submittable.com/submit" target="_blank" rel="noopener noreferrer">Anhinga Press – Phillip Levine Prize in Poetry</a> </strong>/ Deadline: October 1, 2018 / Poetry / $28 / Prize: $2,000 + Publication / Judge: Peter Everwine</p>
+
 <p><strong><a href="http://www.anothernewcalligraphy.com/search/label/information?max-results=50" target="_blank" rel="noopener noreferrer">Another New Calligraphy</a></strong> / Now / Music, Books</p>
+
 <p><a href="http://www.apocalypse-party.com/submissions.html" target="_blank" rel="noopener"><strong>Apocalypse Party</strong></a> / Year-Round / All Genres</p>
+
 <p><strong><a href="https://autumnhousepress.submittable.com/submit">Autumn House Press — Open Call</a> </strong>/ Deadline: November 1, 2018 / All Genres / $10</p>
+
 <p class="title"><strong><a href="http://www.bauhanpublishing.com/the-monadnock-essay-collection-prize/" target="_blank" rel="noopener noreferrer">Bauhan Publishing – Monadnock Essay Collection Prize</a></strong> / Deadline: October 22, 2018 / $25 / $1,000 + Publication </p>
+
 <p><strong><a href="http://blpress.org/contact/" target="_blank" rel="noopener noreferrer">Bellevue Literary Press</a></strong> / Year-Round / Fiction, Nonfiction</p>
+
 <p><b><a href="http://www.newletters.org/writers-wanted/BkMk-writing-contests" target="_blank" rel="noopener noreferrer">BkMk Press Book Prizes</a></b> / Deadline: January 15, 2019 / Fiction, Poetry / $30 / Prize: $1,000 + Publication</p>
+
 <p><b><a href="https://blacklawrencepress.submittable.com/submit" target="_blank" rel="noopener noreferrer">Black Lawrence Press – Open Reading Period</a></b> / November 1 – 30, 2018 / All Genres</p>
+
 <p><strong><a href="http://www.blazevox.org/index.php/faqs/" target="_blank" rel="noopener noreferrer">BlazeVOX</a></strong> / Year-Round / Poetry, Fiction</p>
+
 <p><strong><a href="https://www.blfpress.com/submissions/" target="_blank" rel="noopener noreferrer">BLF Press</a> </strong>/ Now / Fiction by Black Women Writers</p>
+
 <p><a href="https://www.boaeditions.org/pages/a-poulin-jr-poetry-prize" target="_blank" rel="noopener noreferrer"><strong>BOA Editions – </strong><b>A. Poulin, Jr. Poetry Prize</b></a> / Deadline: November 30, 2018 / Poetry / $25 / Prize: $1,000 + Publication / Judge: Patricia Smith</p>
+
 <p><strong><a href="http://www.boost-house.com/submit/" target="_blank" rel="noopener">Boost House</a></strong> / Now / Poetry</p>
+
 <p><a href="http://www.brainmillpress.com/submit/" target="_blank" rel="noopener"><strong>Brain Mill Press</strong><strong> – Kindred Books</strong></a> / Now / Fiction by Marginalized Writers</p>
+
 <p><strong><a href="http://brickroadpoetrypress.com/poetry-book-contest/" target="_blank" rel="noopener noreferrer">Brick Road Poetry Press – Book Contest</a></strong> / Deadline: November 1, 2018 / Poetry / $25 / Prize: $1,000 + Publication</p>
 <p><a href="http://brighthillpress.org/submissionguidelines/"><strong>Bright Hill Press – Poetry Book Competition</strong></a> / Deadline: December 31, 2018 / Poetry / $27 / Prize: $1,000 + Publication</p>
 <p><strong><a href="http://www.africanpoetryprize.org/" target="_blank" rel="noopener noreferrer">Brunel University – International African Poetry Prize</a></strong> / October 1 – November 30, 2018 / Poetry / Prize: £3,000 + Publication</p>
@@ -5046,7 +5063,8 @@ ul.homepage-featured-boxes .penci-fea-in h4 span span, ul.homepage-featured-boxe
     margin: 0;
 }		    </style>
     <!-- ## NXS/OG ## --><!-- ## NXSOGTAGS ## --><!-- ## NXS/OG ## -->
-</head>
+
+</head>
 
 <body class="post-template-default single single-post postid-49988 single-format-standard">
 <a id="close-sidebar-nav" class="header-5"><i class="fa fa-close"></i></a>
