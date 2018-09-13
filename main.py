@@ -34,42 +34,47 @@ def selectParent(element, selector):
     
     return element
 
+print "Making request"
+
 raw_html = simple_get('https://entropymag.org/where-to-submit-september-october-and-november-2018/')
+
+print "Making Soup"
 html = BeautifulSoup(raw_html, 'html.parser')
 
+
+print "Extracting html"
 content = html.select_one('h3 b')
-
-
 section = content.findNext(href="#top")
 
-moreSections = True
-while (moreSections):
+print "Started processing"
+processSections = True
+while (processSections):
     print 'SectionType: ', section.findNext().string.encode('utf-8').replace(':', '')
     
     section = section.findNext()
-    nextSection = True
+    processEntries = True
 
-    while nextSection:
+    while processEntries:
         entity = selectParent(section, 'p')
         
         if (entity != None):
             try:
                 #detecting the end of the a section
                 if entity.a.attrs['href'] == "#top" or entity == None:
-                    nextSection = False
+                    processEntries = False
             except KeyError:
                 pass
             
             if entity.attrs.get('class') == ['dsq-widget-meta']:
-                moreSections = False
-                nextSection = False
+                processSections = False
+                processEntries = False
             else:
                 print 'Entry: ', entity
 
         if section == None:
-            moreSections = False
-            nextSection = False
-        elif nextSection:
+            processSections = False
+            processEntries = False
+        elif processEntries:
             section = section.findNext('a')
 
 print "complete"
