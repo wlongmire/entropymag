@@ -1,0 +1,20 @@
+Ok.
+So now that we have a seperate csv file of all entries, I want to do a pass that converts that into a finer grain listing
+I want to include the submission fee (if it exists), keywords, genre, identity focus, offering publication, deadline, prize, judge, submission fee
+
+Recidencies will need to be processed slightly differently
+possibly in a different database
+
+but for presses, chapbooks and journals + anthologies : they seem to follow the same rules
+
+/ (Deadline: Date) or Date Range or Year-Round or Now / Genre / submission fee (if it exists) / Series Editor: {} / Prize (if it exists) / Judge (if it exists)
+
+Genre may include by {identity} clause
+Prize may include + Publication [by publication]
+
+at the very least everything here seems seprated by / so that makes it easy to extract indivisual elements
+and we can probably have a system of regx for each type see fits each category!
+
+tiz-ight!
+
+Let's rest on this....

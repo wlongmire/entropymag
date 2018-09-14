@@ -96,6 +96,7 @@ with open('entries.csv', 'w') as output_file:
     dict_writer.writerows(entries)
 
 print "complete"
+
 # so we have sections are divided into anchor tags with <h3><b> within them. One word categories.
 # everything from there to the next example (or the pdf img for end) is a section of types of
 # submissions.
