@@ -3,6 +3,7 @@ from datetime import date
 from datetime import datetime
 import csv
 import pprint
+pp = pprint.PrettyPrinter(indent=4)
 
 
 # entries = [
@@ -171,9 +172,22 @@ for row in reader:
     rows.append(row)
     dict_entries.append(bodyEntry)
 
-for idx, entry in enumerate(dict_entries):
-    entryObject = map(lambda conversion : doConversion(conversion, entry), conversions)
-    entryObject.append({'org_name': rows[idx]['org_name']})
-    entryObject.append({'url': rows[idx]['url']})
-    entryObject.append({'submission type': rows[idx]['sectionType']})
-    print entryObject[6]
+def getEntries(dict_entries):
+    finalEntries = []
+    for idx, entry in enumerate(dict_entries):
+        entryObject = map(lambda conversion : doConversion(conversion, entry), conversions)
+        finalEntries.append({
+            'deadline': entryObject[0]['deadline'],
+            'opens': entryObject[1]['opens'],
+            'genre': entryObject[2]['genre'],
+            'keywords': entryObject[3]['keywords'],
+            'submission_fee': entryObject[4]['submission_fee'],
+            'price': entryObject[5]['price'],
+            'judges': entryObject[6]['judges'],
+            'org_name': rows[idx]['org_name'],
+            'url': rows[idx]['url'],
+            'submission_type': rows[idx]['sectionType']
+        })
+    return finalEntries
+
+pp.pprint (getEntries(dict_entries))
