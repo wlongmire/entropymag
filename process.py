@@ -3,35 +3,62 @@ from datetime import date
 from datetime import datetime
 import csv
 import pprint
-import unicodedata
 
-# m = re.match(r"(?P<first>\w+) (?P<last>\w+)", "Malcolm Reynolds")
 
-deadlineRE = [
+entry = [
+    'Open: December 30, 2018',
+    'Poetry, Fiction, Nonfiction, Art',
+    '$3'
+]
+
+conversions = [
     {
-        'reg': r"^Deadline: (?P<deadline>.*$)",
-        'result': lambda entry : datetime.strptime(re.match(r"^Deadline: (?P<deadline>.*$)", entry, flags=re.IGNORECASE).group('deadline'), '%B %d, %Y').date()
+        'type': 'Deadline',
+        'entryIndex': 0,
+        'regEx': [
+            {
+                'reg': r"^Deadline: (?P<open>.*) - (?P<deadline>.*$)",
+                'result': lambda entry : datetime.strptime(re.match(r"^Deadline: (?P<open>.*) - (?P<deadline>.*$)", entry, flags=re.IGNORECASE).group('deadline'), '%B %d, %Y').date()
+            },
+            {
+                'reg': r"^Deadline: (?P<deadline>.*$)",
+                'result': lambda entry : datetime.strptime(re.match(r"^Deadline: (?P<deadline>.*$)", entry, flags=re.IGNORECASE).group('deadline'), '%B %d, %Y').date()
+            }
+        ]
     },
     {
-        'reg': r"^(?P<deadline>Now)",
-        'result': lambda entry : date.today()
-    },
-    {
-        'reg': r"^(?P<deadline>Year-Round)",
-        'result': lambda entry : date.today()
+        'type': 'Opens',
+        'entryIndex': 0,
+        'regEx': [
+            {
+                'reg': r"^Deadline: (?P<open>.*) - (?P<deadline>.*$)",
+                'result': lambda entry : datetime.strptime(re.match(r"^Deadline: (?P<open>.*) - (?P<deadline>.*$)", entry, flags=re.IGNORECASE).group('open'), '%B %d, %Y').date()
+            },
+            {
+                'reg': r"^Open: (?P<open>.*$)",
+                'result': lambda entry : datetime.strptime(re.match(r"^Open: (?P<open>.*$)", entry, flags=re.IGNORECASE).group('open'), '%B %d, %Y').date()
+            }
+        ]
     }
 ]
 
-entry = "Year-Round" #"Deadline: November 1, 2018"# / Poetry / $30 / Prize: $3,000 + Publication,Presses"
+currentConversion = conversions[1]
+entrySearchIndex = currentConversion['entryIndex']
+conversionRegex = currentConversion['regEx']
+entry = entry[entrySearchIndex]
 
-deadlineMatches = filter(
-    lambda regEntry :re.match(regEntry['reg'], entry, flags=re.IGNORECASE),
-    deadlineRE)
+matches = filter(
+    lambda regEntry : re.match(regEntry['reg'], entry, flags=re.IGNORECASE),
+    conversionRegex
+)
 
-if len(deadlineMatches) > 0:
-    print deadlineMatches[0]['result'](entry)
+if len(matches) > 0:
+    print matches[0]['result'](entry)
 else:
-    print "Not Found"
+    print None
+
+
+#****************
 
 # def processBodyEntry(entry):
 #     return entry.strip().decode('ascii', 'ignore').encode("utf-8")

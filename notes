@@ -18,3 +18,16 @@ and we can probably have a system of regx for each type see fits each category!
 tiz-ight!
 
 Let's rest on this....
+
+_____________________
+
+this is cool. So I can scan a single entry in our base data, see if it matches against a range of regex and get back a custom
+value based on it. Here is the thing. Now we move back a step and see how this system relates to multiple datatypes and points to a specific (or range) values within our base entry.
+
+This problem is in part related to the complexity of our data entries themselves.
+
+What I think I want for (and it is expressed within this data, so I have to accomidate for it somehow), is:
+Sub Open Date
+Sub Close Date
+Currently Open
+Rolling Submissions (Year Round)
