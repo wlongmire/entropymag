@@ -30,6 +30,15 @@ Entries = create_model(entry_schema, db['entries'])
 app = flask.Flask(__name__)
 app.config['DEBUG'] = True
 
+def sanitizeEntry(entry):
+    e = dict(entry)
+    e['genre'] =  [] if e['genre'] == "" else ast.literal_eval(e['genre'])
+    e['keywords'] = [] if e['keywords'] == "" else ast.literal_eval(e['keywords'])
+    e['judges'] = [] if e['judges'] == "" else ast.literal_eval(e['judges'])
+    del e['_id']
+
+    return e
+    
 # Routes of interest
 @app.route('/', methods=['GET'])
 def home():
@@ -38,14 +47,8 @@ def home():
 @app.route('/api/v1/entries/all', methods=['GET'])
 def api_all():
     results = []
-    for entry in Entries.find():
-        print entry
-        e = dict(entry)
-        e['genre'] =  [] if e['genre'] == "" else ast.literal_eval(e['genre'])
-        # e['keywords'] = [] if e['keywords'] == "" else ast.literal_eval(e['keywords'])
-        e['judges'] = [] if e['judges'] == "" else ast.literal_eval(e['judges'])
-        del e['_id']
-        results.append(e)
+    for entry in Entries.find():        
+        results.append(sanitizeEntry(entry))
 
     return jsonify(results)
     
@@ -55,16 +58,14 @@ def api_id():
 
     if 'id' in request.args:
         id = int(request.args['id'])
+
+        print sanitizeEntry(Entries.find_one({'id':id}))
+        results = [ sanitizeEntry(Entries.find_one({'id':id})) ]
     else:
         results = db.entries.find()
     
-    return results
-    
-    # for book in books:
-    #     if book['id'] == id:
-    #         results.append(book)
-    
-    # return jsonify(results)
+    print results
+    return jsonify(results)
 
 app.run()
 
